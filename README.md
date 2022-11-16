@@ -1,27 +1,23 @@
 Hi, I'm Matt
 
+This is my software engineering journey. You can find most of the things I was working on and how I developed my software engineering skills.
+I will be slowly updating it to include all my personal and professional work and experience. 
 
 
-
-# Software Engineering Journey
-
-This is my software engineering journey. You can find most of the things I was working on. 
-
-
-## Year 1998
+# Year 1998
 
 It was exciting time writing software using Assembler and Pascal for DOS. Now it is only the history.
 
-### Debugging and software modifications
+## Debugging and software modifications in DOS
 
 This is not something to be proud of. I cracked the software that allowed me to learn touch typing. 
-The software was free with all the features but the unregistered version had a splash screen. 
+The software was free and offered all the features with the caveat that the unregistered version had a splash screen. 
 
 You need about ten minutes of your time and clicking space key before you can start using it. 
 I used Turbo Debugger for DOS and figured out how to skip the splash screen. 
 
 Like in many cases it is a simple NOP over the splash screen call.
-The challange here is that the code of the software is compressed/encrypted. 
+The challenge was that the code of the software is compressed/encrypted. 
 You cannot make the change permanently to MASZ.EXE binaries.
 
 This assembler code is acting as debugger and is doing exactly what I was doing manually with Turbo Debugger:
