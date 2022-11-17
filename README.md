@@ -12,12 +12,11 @@ The code can be executed only under [DosBox](https://www.dosbox.com/).
 
 ## Debugging and software modifications in DOS
 
-This is not something to be proud of. I cracked the software that allowed me to learn touch typing. The software is called "Maszynistka" which translates to "t
-Typist". Maszynistka was a free software with the caveat that the unregistered version has a splash screen. 
-
+I "modified" software which helped me to learn touch typing. The software was called "Maszynistka" which translates to "
+Typist". Maszynistka was a free software with the caveat that the unregistered version had a splash screen. 
 You need about ten minutes of your time and clicking space key before you can start using it. 
-I used Turbo Debugger for DOS and figured out how to skip the splash screen. 
 
+I used Turbo Debugger for DOS and figured out how to skip the splash screen. 
 Like in many cases it is a simple NOP over the splash screen call.
 The challenge was that the code of the software is compressed/encrypted. 
 You cannot make the change permanently to MASZ.EXE binaries.
@@ -30,11 +29,12 @@ This assembler code is acting as debugger and is doing exactly what I was doing 
 - Apply NOP slide over the call to the splash screen.
 - Continue execution of modified code.
 
-The source code is available here in [CRACK](https://github.com/Jandini/8086/tree/main/CRACK) folder. 
+Program "Maszynistka" with the splash screen...
 
-Program "Maszynistka" with and without splash screen...
+![MASZ-SPLASH](https://user-images.githubusercontent.com/19593367/202403492-828171a2-2e4c-411d-8bbb-70e77b00bed5.gif)
 
-![MASZ](https://user-images.githubusercontent.com/19593367/202326038-f85dea69-d224-47d9-81e6-dcff419f1941.gif)
+... and the same after running it with [CRACK.ASM](https://github.com/Jandini/8086/blob/main/CRACK/CRACK.ASM) written in Assembler.
 
+![MASZ-CRACK](https://user-images.githubusercontent.com/19593367/202403750-d7bf8743-2d03-4e1d-a2c0-8b5eba3237f0.gif)
 
 
