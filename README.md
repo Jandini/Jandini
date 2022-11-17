@@ -7,11 +7,12 @@ I will be slowly updating it to include all my personal and professional work an
 # Year 1998
 
 It was exciting time writing software using Assembler and Pascal for DOS. Now it is only the history.
+You can find my all assembler source codes and binaries in [8086](https://github.com/Jandini/8086) repository.
+The code can be executed only under [DosBox](https://www.dosbox.com/).
 
 ## Debugging and software modifications in DOS
 
-This is not something to be proud of. I cracked the software that allowed me to learn touch typing. 
-The software was free and offered all the features with the caveat that the unregistered version had a splash screen. 
+This is not something to be proud of. I cracked the software that allowed me to learn touch typing. The software is called "Maszynistka" which translates to "typist". Maszynistka was free and has all the features with the caveat that the unregistered version has a splash screen. 
 
 You need about ten minutes of your time and clicking space key before you can start using it. 
 I used Turbo Debugger for DOS and figured out how to skip the splash screen. 
@@ -28,7 +29,9 @@ This assembler code is acting as debugger and is doing exactly what I was doing 
 - Apply NOP slide over the call to the splash screen.
 - Continue execution of modified code.
 
-You can find the code in my [8086](https://github.com/Jandini/8086) repository under [CRACK](https://github.com/Jandini/8086/tree/main/CRACK)
+The source code is available here in [CRACK](https://github.com/Jandini/8086/tree/main/CRACK) folder. 
+
+Program "Maszynistka" with and without 🙈 splash screen...
 
 ![MASZ](https://user-images.githubusercontent.com/19593367/202326038-f85dea69-d224-47d9-81e6-dcff419f1941.gif)
 
