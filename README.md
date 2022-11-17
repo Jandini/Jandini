@@ -24,13 +24,13 @@ This assembler code is acting as debugger and is doing exactly what I was doing 
 - Load MASZ.EXE into memory without executing it.
 - Set break point after the code is decompressed/decrypted.
 - Execute the program and let it decompress/decrypt the code.
-- The break point calls the trace and trap procedures.
-- Perform NOP over the call to the splash screen
-- Let the program to continue execution
+- The break point calls the trace and trap procedures to find the code address in memory.
+- Apply NOP slide over the call to the splash screen.
+- Continue execution of modified code.
 
 You can find the code in my [8086](https://github.com/Jandini/8086) repository under [CRACK](https://github.com/Jandini/8086/tree/main/CRACK)
 
+![MASZ](https://user-images.githubusercontent.com/19593367/202326038-f85dea69-d224-47d9-81e6-dcff419f1941.gif)
 
-![MASZ](https://user-images.githubusercontent.com/19593367/202276369-7642d19b-1663-432b-8ef2-73924bd25893.gif)
 
 
