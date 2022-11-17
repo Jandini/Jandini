@@ -44,6 +44,15 @@ TSR is Terminate and Stay Resident program which allowed to run your program in 
 This is where the journey with concept of viruses starts. 
 
 
+
+## Drawing pictures in text mode
+
+The picture was manually created in [X.ASM](https://github.com/Jandini/8086/tree/main/COMPRESS) (1536 bytes) and [compressed](https://github.com/Jandini/8086/blob/main/COMPRESS/COMPRESS.PAS) to C.ASM file (584 bytes). Then compressed picture in C.ASM was [converted](https://github.com/Jandini/8086/blob/main/COMPRESS/CONVERT.PAS) to assembler's byte array in [OUT.ASM](https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM).
+The code to draw the picture was added later. 
+
+
+https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM
+
 ![COMPRESS](https://user-images.githubusercontent.com/19593367/202412547-cdae0eb8-6506-4fe1-b2cb-262794c50241.gif)
 
 ![PICTURE](https://user-images.githubusercontent.com/19593367/202411411-d234abaf-d036-4784-9df4-464369b797c2.gif)
