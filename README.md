@@ -6,10 +6,8 @@ I will be slowly updating it to include all my personal and professional work an
 
 Here what I was up to... 
 
-[Year 1998](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-in-dos)
-
-
-[Reverse Engineering in DOS](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-in-dos)
+* [Year 1998](https://github.com/Jandini/Jandini/blob/main/README.md#year-1998)
+  * [Reverse Engineering in DOS](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-in-dos)
 
 # Year 1998
 
