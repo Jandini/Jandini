@@ -36,9 +36,9 @@ I used Turbo Debugger to figure out how to skip the splash screen. It was fun re
 
 It is a simple [NOP slide](https://en.wikipedia.org/wiki/NOP_slide) over the splash screen call.
 The challenge was that the code of the program was encoded. 
-You cannot make permanent change to MASZ.EXE binaries. 
+You cannot make permanent change to MASZ.EXE binaries so you can run it directly. I wrote my own "debugger"... 
 
-The code is acting like a debugger and repeats my steps done maunally in Turbo Debugger:
+The code repeats my steps I have done maunally in Turbo Debugger:
 - Load MASZ.EXE into memory without executing it.
 - Set a few break points and jump over these far returns until the code decoded.
 - Find the address where the call to splash screen ends up in the decoded code in memory.
