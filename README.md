@@ -4,6 +4,9 @@ This is my software engineering journey. You can find most of the things I was w
 I will be slowly updating it to include all my personal and professional work and experience. 
 
 
+
+[Reverse Engineering in DOS](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-in-dos)
+
 # Year 1998
 
 It was exciting time writing software using Assembler and Pascal for DOS. Now it is only the history.
