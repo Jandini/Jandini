@@ -1,6 +1,6 @@
-Hi, I'm Matt
+Hi, I'm Matt Janda
 
-This is my software engineering journey. You can find most of the things I was working on and how I developed my software engineering skills.
+I would like to share my software engineering journey the years. You can find most of the things I was working on and how I developed my software engineering skills.
 I will be slowly updating it to include all my personal and professional work and experience. 
 
 
