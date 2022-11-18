@@ -4,7 +4,7 @@ This is my software engineering journey. You can find most of the things I was w
 I will be slowly updating it to include all my personal and professional work and experience. 
 
 
-Here what I was up to... 
+Here is what I was up to... 
 
 * [Year 1998](https://github.com/Jandini/Jandini/blob/main/README.md#year-1998)
   * [Reverse Engineering in DOS](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-in-dos)
