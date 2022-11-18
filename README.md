@@ -34,7 +34,7 @@ I used Turbo Debugger to figure out how to skip the splash screen. It was fun re
 
 
 
-Like in many cases it is a simple [NOP slide](https://en.wikipedia.org/wiki/NOP_slide) over the splash screen call.
+It is a simple [NOP slide](https://en.wikipedia.org/wiki/NOP_slide) over the splash screen call.
 The challenge was that the code of the program was encoded. 
 You cannot make permanent change to MASZ.EXE binaries. 
 
