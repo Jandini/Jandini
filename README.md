@@ -26,9 +26,9 @@ The high level IDE I was using was Borlad Pascal...
 ## Software Reverse Engineering in DOS
 
 I modified software which helped me to learn touch typing. The software was called "Maszynistka" which translates to "Typist". Maszynistka was free to use with the caveat that unregistered version has a splash screen. 
-You needed about 15 minutes of your time of clicking space key before you can start using it. 
+You needed about 15 minutes of your time of clicking space key the keyboard before you could using it. 
 
-I used Turbo Debugger for DOS and figured out how to skip the splash screen. It was fun repeating it after so many years. It took only 2 minutes. 
+I used Turbo Debugger to figure out how to skip the splash screen. It was fun repeating it after so many years. It took only 2 minutes; it took much longer in the past.
 Here you can see how I did it... 
 
 ![TD_MASZ](https://user-images.githubusercontent.com/19593367/202817851-761425ca-0336-4240-a197-2a9984db452f.gif)
