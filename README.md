@@ -28,8 +28,7 @@ I used Borlad Pascal to write and run code written in Pascal language...
 I modified software which helped me to learn touch typing. The software was called "Maszynistka" which translates to "Typist". Maszynistka was free to use with the caveat that unregistered version has a splash screen. 
 You needed about 15 minutes of your time before you could using it; including the fact you had to press a key on you keyboard multiple times during the splash screen. 
 
-I used Turbo Debugger to figure out how to skip the splash screen. FYI, It was fun repeating it after so many years to get a gif here. It took only 2 minutes; it took much longer in the past.
-Here you can see how I did it... 
+I used Turbo Debugger to figure out how to skip the splash screen. It was fun repeating it after so many years to get a gif here. It took only 2 minutes but then it took much longer.
 
 ![TD_MASZ](https://user-images.githubusercontent.com/19593367/202817851-761425ca-0336-4240-a197-2a9984db452f.gif)
 
