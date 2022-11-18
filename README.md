@@ -13,20 +13,20 @@ The code can be executed only under [DosBox](https://www.dosbox.com/).
 ## Debugging and software modifications in DOS
 
 I "modified" software which helped me to learn touch typing. The software was called "Maszynistka" which translates to "
-Typist". Maszynistka was a free software with the caveat that the unregistered version had a splash screen. 
-You need about ten minutes of your time and clicking space key before you can start using it. 
+Typist". Maszynistka was a free with the caveat that unregistered version has a splash screen. 
+You need about 10 minutes of your time of clicking space key before you can start using it. 
 
 I used Turbo Debugger for DOS and figured out how to skip the splash screen. 
-Like in many cases it is a simple NOP over the splash screen call.
-The challenge was that the code of the software is compressed/encrypted. 
-You cannot make the change permanently to MASZ.EXE binaries.
+Like in many cases it is a simple [NOP slide](https://en.wikipedia.org/wiki/NOP_slide) over the splash screen call.
+The challenge was that the code of the program was compressed. 
+You cannot make permanent change to MASZ.EXE binaries. 
 
-This assembler code is acting as debugger and is doing exactly what I was doing manually with Turbo Debugger:
+The code is acting like a debugger and repeats my steps done maunally in Turbo Debugger:
 - Load MASZ.EXE into memory without executing it.
 - Set break point after the code is decompressed/decrypted.
 - Execute the program and let it decompress/decrypt the code.
 - The break point calls the trace and trap procedures to find the code address in memory.
-- Apply NOP slide over the call to the splash screen.
+- Apply [NOP slide](https://en.wikipedia.org/wiki/NOP_slide) over the call to the splash screen.
 - Continue execution of modified code.
 
 Program "Maszynistka" with the splash screen...
