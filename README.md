@@ -26,9 +26,9 @@ I used Borlad Pascal to write and run code written in Pascal language...
 ## Software Reverse Engineering in DOS
 
 I modified software which helped me to learn touch typing. The software was called "Maszynistka" which translates to "Typist". Maszynistka was free to use with the caveat that unregistered version has a splash screen. 
-You needed about 15 minutes of your time of clicking space key the keyboard before you could using it. 
+You needed about 15 minutes of your time before you could using it; including the fact you had to press a key on you keyboard multiple times during the splash screen. 
 
-I used Turbo Debugger to figure out how to skip the splash screen. It was fun repeating it after so many years. It took only 2 minutes; it took much longer in the past.
+I used Turbo Debugger to figure out how to skip the splash screen. FYI, It was fun repeating it after so many years to get a gif here. It took only 2 minutes; it took much longer in the past.
 Here you can see how I did it... 
 
 ![TD_MASZ](https://user-images.githubusercontent.com/19593367/202817851-761425ca-0336-4240-a197-2a9984db452f.gif)
