@@ -83,7 +83,7 @@ https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM
 ## Capture The Flag
 
 
-Participated in Capture The Flag events organized by [SANS](https://www.sans.org/uk/) on [My ranges.io events](https://ranges.io/my-events?filter=finished)
+Participated in Capture The Flag events organized by [SANS](https://www.sans.org/uk/) on [My ranges.io](https://ranges.io/my-events?filter=finished)
 
 | Name                                           | Finished At              | Challenges             | Position                 | Points                        |
 | ---------------------------------------------- | ------------------------ | ---------------------- | ------------------------ | ----------------------------- |
