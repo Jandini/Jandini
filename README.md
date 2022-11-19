@@ -86,6 +86,9 @@ https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM
 
 Created simple [.NET framework for playing CTF](https://github.com/Jandini/Janda.CTF). 
 
+![71ds4p](https://user-images.githubusercontent.com/19593367/202848932-82facb7b-1815-49d8-9491-4ce78b8d2a9d.gif)
+
+
 
 Participated in Capture The Flag events organized by [SANS](https://www.sans.org/uk/) on [My ranges.io](https://ranges.io/my-events?filter=finished)
 
