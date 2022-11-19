@@ -76,6 +76,20 @@ https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM
 ![PICTURE](https://user-images.githubusercontent.com/19593367/202411411-d234abaf-d036-4784-9df4-464369b797c2.gif)
 
 
+## Two operating systems on one floppy disk
+
+I worte boot loader [MULTI.ASM](https://github.com/Jandini/8086/blob/main/MULTI/MULTI.ASM) which allowed me to put two operating systems on one floppy disk.
+User can select operating system from the menu...
+
+Microsoft DOS v6.22
+
+![W95-screen0-D622 (online-video-cutter com) 720x400](https://user-images.githubusercontent.com/19593367/202869923-f9ce8ce8-344f-4a5e-8b53-a9e673f08983.gif)
+
+Microsoft DOS v4.00 for Windows 95
+
+![W95-screen0-W95 (online-video-cutter com) 720x400](https://user-images.githubusercontent.com/19593367/202869953-7a4444dc-44f0-4039-8c0b-95d60cdf7b00.gif)
+
+
 
 
 # Year 2020
