@@ -78,6 +78,23 @@ https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM
 
 
 
+# Year 2020
+
+## Capture The Flag
+
+
+Participated in following SANS Capture The Flag events on [My ranges.io events](https://ranges.io/my-events?filter=finished)
+
+| Name                                           | Finished At              | Challenges             | Position                 | Points                        |
+| ---------------------------------------------- | ------------------------ | ---------------------- | ------------------------ | ----------------------------- |
+| **SANS Community CTF**                         | 14:00 on 17 Oct 2020 BST | **35** of 37 completed | **21**st of 1055 players | **12,750** of 13,500 possible |
+| **SANS Community CTF - November**              | 13:00 on 23 Nov 2020 GMT | **61** of 62 completed | **27**th of 1690 players | **19,850** of 20,350 possible |
+| **Cyber Camp 2020**                            | 04:59 on 7 Jan 2021 GMT  | **37** of 39 completed | **26**th of 360 players  | **10,050** of 11,550 possible |
+| **Global Community CTF: Mini BootUp**          | 18:00 on 19 Feb 2021 GMT | **32** of 32 completed | **17**th of 360 players  | **8,500** of 8,500 possible   |
+| **Intermediate: Global Community CTF: BootUp** | 23:00 on 23 Apr 2021 BST | **13** of 24 completed | **88**th of 1293 players | **2,300** of 7,500 possible   |
+| **Global Community CTF: Bootup**               | 23:00 on 16 Oct 2021 BST | **36** of 45 completed | **20**th of 889 players  | **1,934** of 4,630 possible   |
+
+
 
 
 
