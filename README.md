@@ -14,7 +14,7 @@ Here is what I was up to...
 
 It was exciting time writing software using Assembler and Pascal for DOS. Now it is only the history.
 You can find my all assembler source codes and binaries in [8086](https://github.com/Jandini/8086) repository.
-The code can be executed only under [DosBox](https://www.dosbox.com/). Kudos to the authore to keep the legacy alive.
+The code can be executed only under [DosBox](https://www.dosbox.com/). Kudos to the authors to keep the legacy alive.
 
 Multi-Edit was one of thr text editors to edit assembler code. Keyboard only... We were raised in the age where computer mouse 🖱️ was a rare thing...  
 
