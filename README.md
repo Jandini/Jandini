@@ -114,7 +114,7 @@ Microsoft DOS v4.00 for Windows 95
 
 Created simple [.NET framework for playing CTF](https://github.com/Jandini/Janda.CTF). 
 
-![71ds4p](https://user-images.githubusercontent.com/19593367/202848932-82facb7b-1815-49d8-9491-4ce78b8d2a9d.gif)
+![ezgif-5-766ce72835](https://user-images.githubusercontent.com/19593367/202913808-0cccea17-21a7-4027-a371-08e4baf39231.gif)
 
 
 
