@@ -65,17 +65,18 @@ The compressed pictures converted to assembler code could easlily fit into a few
 I worte boot loader [MULTI.ASM](https://github.com/Jandini/8086/blob/main/MULTI/MULTI.ASM) which allowed me to place two operating systems on a single floppy disk.
 I added animated floppy disk picture to the code to make the boot loader a bit more fancy. User can select operating system from the menu.
 
-Microsoft DOS v6.22
+Microsoft DOS 6.22
 
 ![W95-screen0-D622 (online-video-cutter com) 720x400](https://user-images.githubusercontent.com/19593367/202869923-f9ce8ce8-344f-4a5e-8b53-a9e673f08983.gif)
 
-Microsoft DOS v4.00 for Windows 95
+Microsoft DOS 4.00 for Windows 95
 
 ![W95-screen0-W95 (online-video-cutter com) 720x400](https://user-images.githubusercontent.com/19593367/202869953-7a4444dc-44f0-4039-8c0b-95d60cdf7b00.gif)
 
 The physical image of the 1.44MB floppy disk is available in the [repository](https://github.com/Jandini/8086/blob/main/MULTI/floppy.flp).
 
-# Year 2005
+
+# Year 2006
 
 ## Hard drive imaging via IDE ports for DOS
 
@@ -83,12 +84,15 @@ I wrote a simple hard drive imaging tool using [Borland Pascal](https://wiki.fre
 
 ![IDE](https://user-images.githubusercontent.com/19593367/202914760-7c92e881-efb1-4f33-b8b1-5045124ddf71.gif)
 
+Running under Windows 98 with virtual hard drive...
+
+![ezgif-1-36dfefd664](https://user-images.githubusercontent.com/19593367/202930593-f7812490-64f4-4a5b-a478-9a5179d69eae.gif)
+
+
 This was my last software written for DOS. You can find the code in [IDE repository](https://github.com/Jandini/IDE).
 
-# Year 2006
 
 ## Software Reverse Engineering with SoftICE
-
 
 [SoftICE](https://en.wikipedia.org/wiki/SoftICE) was my favourite debugger for Windows XP/2000. 
 
