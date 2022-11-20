@@ -21,28 +21,22 @@ I used Borlad Pascal to write and run code written in Pascal language...
 I modified software which helped me to learn touch typing. The software was called "Maszynistka" which translates to "Typist". Maszynistka was free to use with the caveat that unregistered version has a splash screen. 
 You needed about 15 minutes of your time before you could using it; including the fact you had to press a key on you keyboard multiple times during the splash screen. 
 
-I used Turbo Debugger to figure out how to skip the splash screen. It was fun repeating it after so many years to get a gif here. It took only 2 minutes but then it took much longer.
+I used Turbo Debugger to figure out how to skip the splash screen. This is how I did it... 
 
 ![TD_MASZ](https://user-images.githubusercontent.com/19593367/202817851-761425ca-0336-4240-a197-2a9984db452f.gif)
 
+I let the program to execute until I found the splash screen call. I applied simple [NOP slide](https://en.wikipedia.org/wiki/NOP_slide) over the splash screen call (3 bytes only). 
 
+The challenge was that the code of the program was encoded. I could not make permanent change to MASZ.EXE binaries. 
 
-It is a simple [NOP slide](https://en.wikipedia.org/wiki/NOP_slide) over the splash screen call.
-The challenge was that the code of the program was encoded. 
-You cannot make permanent change to MASZ.EXE binaries so you can run it directly. I wrote my own "debugger"... 
+I wrote my own debugger. The assembler code in [CRACK.ASM](https://github.com/Jandini/8086/blob/main/CRACK/CRACK.ASM) repeats steps required to bypass the splash screen. Instead running MASZ.EXE the program can be executed via CRACK.COM which skips the splash screen.  
 
-The code repeats my steps I have done maunally in Turbo Debugger:
-- Load MASZ.EXE into memory without executing it.
-- Set a few break points and jump over these far returns until the code decoded.
-- Find the address where the call to splash screen ends up in the decoded code in memory.
-- Apply [NOP slide](https://en.wikipedia.org/wiki/NOP_slide) over the call to the splash screen.
-- Continue execution of modified code.
 
 Program "Maszynistka" with the splash screen...
 
 ![MASZ-SPLASH](https://user-images.githubusercontent.com/19593367/202403492-828171a2-2e4c-411d-8bbb-70e77b00bed5.gif)
 
-... and the same program without splash screen after running it with [CRACK.COM](https://github.com/Jandini/8086/blob/main/CRACK/CRACK.ASM)
+... and without the splash screen after running it with [CRACK.COM](https://github.com/Jandini/8086/blob/main/CRACK/CRACK.ASM)
 
 ![MASZ-CRACK](https://user-images.githubusercontent.com/19593367/202403750-d7bf8743-2d03-4e1d-a2c0-8b5eba3237f0.gif)
 
@@ -56,9 +50,9 @@ This is where the journey with concept of viruses starts.
 
 ## Text mode pictures in assembler code
 
-I created a number of picutres in text mode and then converted them into assembler code. For example, the picture below was manually created in [X.ASM](https://github.com/Jandini/8086/tree/main/COMPRESS) (1536 bytes) and [compressed](https://github.com/Jandini/8086/blob/main/COMPRESS/COMPRESS.PAS) to C.ASM file (584 bytes). Compressed picture in C.ASM was [converted](https://github.com/Jandini/8086/blob/main/COMPRESS/CONVERT.PAS) to assembler's byte array in [OUT.ASM](https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM). The code to draw the picture was added later. 
+I created a number of picutres in text mode and converted them into assembler code. For example, the picture below was manually created in [X.ASM](https://github.com/Jandini/8086/tree/main/COMPRESS) (1536 bytes) and [compressed](https://github.com/Jandini/8086/blob/main/COMPRESS/COMPRESS.PAS) to C.ASM file (584 bytes). Compressed picture in C.ASM was [converted](https://github.com/Jandini/8086/blob/main/COMPRESS/CONVERT.PAS) to assembler's byte array in [OUT.ASM](https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM). The source code to draw the picture was added later to OUT.ASM code.
 
-The compressed pictures converted to assembler code could easlily fit into a few sectors between MBR and BPB on the hard drive. I used similar idea when I wrote [Boot Loader for two operating systems](https://github.com/Jandini/Jandini/blob/main/README.md#two-operating-systems-on-one-floppy-disk).
+The compressed pictures converted to assembler code could easlily fit into a few sectors between MBR and BPB on the hard drive. I used similar idea in [boot loader for two operating systems](https://github.com/Jandini/Jandini/blob/main/README.md#two-operating-systems-on-one-floppy-disk).
 
 
 [OUT.ASM](https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM)
@@ -72,7 +66,7 @@ The compressed pictures converted to assembler code could easlily fit into a few
 
 ## Two operating systems on one floppy disk
 
-I worte boot loader [MULTI.ASM](https://github.com/Jandini/8086/blob/main/MULTI/MULTI.ASM) which allowed me to put two operating systems on one floppy disk.
+I worte boot loader [MULTI.ASM](https://github.com/Jandini/8086/blob/main/MULTI/MULTI.ASM) which allowed me to place two operating systems on a single floppy disk.
 I added animated floppy disk picture to the code to make the boot loader a bit more fancy. User can select operating system from the menu.
 
 Microsoft DOS v6.22
@@ -82,6 +76,8 @@ Microsoft DOS v6.22
 Microsoft DOS v4.00 for Windows 95
 
 ![W95-screen0-W95 (online-video-cutter com) 720x400](https://user-images.githubusercontent.com/19593367/202869953-7a4444dc-44f0-4039-8c0b-95d60cdf7b00.gif)
+
+The physical image of the 1.44MB floppy disk is available in the [repository](https://github.com/Jandini/8086/blob/main/MULTI/floppy.flp).
 
 # Year 2005
 
