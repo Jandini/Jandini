@@ -103,7 +103,7 @@ I wrote a simple hard drive imaging tool using [Borland Pascal](https://wiki.fre
 
 ![IDE](https://user-images.githubusercontent.com/19593367/202914760-7c92e881-efb1-4f33-b8b1-5045124ddf71.gif)
 
-This was my last software written for DOS. You can find the code in [IDE repository](https://github.com/Jandini/IDE)
+This was my last software written for DOS. You can find the code in [IDE repository](https://github.com/Jandini/IDE).
 
 # Year 2006
 
