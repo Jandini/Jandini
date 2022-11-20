@@ -1,6 +1,6 @@
 My name is Matt Janda,
 
-I would like to share my software engineering journey over the years. You can find here some of the projects I was working on.
+I would like to share my software engineering journey over the years. You can find here some of the projects I was working on and tools I was using.
 
 
 # Year 1998
