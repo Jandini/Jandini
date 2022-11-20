@@ -70,9 +70,11 @@ The code to draw the picture was added later.
 Why would you like to compress a code of picture that is only 1.5KB ?... Well, You might want to inject your code in the place where every byte count; for example MBR or BPB of your hard drive. 
 
 
-https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM
+[OUT.ASM](https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM)
 
 ![COMPRESS](https://user-images.githubusercontent.com/19593367/202412547-cdae0eb8-6506-4fe1-b2cb-262794c50241.gif)
+
+[PICTURE.ASM](https://github.com/Jandini/8086/blob/main/PICTURE/PICTURE.ASM)
 
 ![PICTURE](https://user-images.githubusercontent.com/19593367/202411411-d234abaf-d036-4784-9df4-464369b797c2.gif)
 
