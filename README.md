@@ -1,22 +1,12 @@
-Hi, I'm Matt Janda
+My name is Matt Janda,
 
-I would like to share my software engineering journey over the years. You can find most of the things I was working on and how I developed my software engineering skills.
+I would like to share my software engineering journey over the years. You can find here some of the projects I was working on.
 
-I will be slowly updating it to include all my personal and professional work and experience. 
-
-
-Here is what I was up to... 
-
-* [Year 1998](https://github.com/Jandini/Jandini/blob/main/README.md#year-1998)
-  * [Reverse Engineering in DOS](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-in-dos)
-  * [Writing TSRs for DOS](https://github.com/Jandini/Jandini/blob/main/README.md#writing-tsrs-for-dos)
-  * [Drawing and compressing pictures in text mode](https://github.com/Jandini/Jandini/blob/main/README.md#drawing-and-compressing-pictures-in-text-mode)
-  * [Two operating systems on one floppy disk](https://github.com/Jandini/Jandini/blob/main/README.md#two-operating-systems-on-one-floppy-disk)
 
 # Year 1998
 
-It was exciting time writing software using Assembler and Pascal for DOS. Now it is only the history.
-You can find my all assembler source codes and binaries in [8086](https://github.com/Jandini/8086) repository.
+It was exciting time writing software using assembler and pascal for DOS. 
+You can find all my assembler source codes and binaries in [8086](https://github.com/Jandini/8086) repository.
 The code can be executed only under [DosBox](https://www.dosbox.com/). Kudos to the authors for keeping the legacy alive.
 
 Multi-Edit was one of thr text editors to edit assembler code.
@@ -24,7 +14,6 @@ Multi-Edit was one of thr text editors to edit assembler code.
 ![ME_MASZ](https://user-images.githubusercontent.com/19593367/202818994-3e053783-9911-48be-be54-11750ee33fd1.gif)
 
 I used Borlad Pascal to write and run code written in Pascal language...
-
 
 
 ## Software Reverse Engineering in DOS
@@ -65,9 +54,9 @@ This is where the journey with concept of viruses starts.
 
 
 
-## Drawing and compressing pictures in text mode
+## Converting text mode pictures into assember code
 
-I created a number of picutres in text mode and then translated them into assembler code. For example, the picture below was manually created in [X.ASM](https://github.com/Jandini/8086/tree/main/COMPRESS) (1536 bytes) and [compressed](https://github.com/Jandini/8086/blob/main/COMPRESS/COMPRESS.PAS) to C.ASM file (584 bytes). Compressed picture in C.ASM was [converted](https://github.com/Jandini/8086/blob/main/COMPRESS/CONVERT.PAS) to assembler's byte array in [OUT.ASM](https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM). The code to draw the picture was added later. 
+I created a number of picutres in text mode and then converted them into assembler code. For example, the picture below was manually created in [X.ASM](https://github.com/Jandini/8086/tree/main/COMPRESS) (1536 bytes) and [compressed](https://github.com/Jandini/8086/blob/main/COMPRESS/COMPRESS.PAS) to C.ASM file (584 bytes). Compressed picture in C.ASM was [converted](https://github.com/Jandini/8086/blob/main/COMPRESS/CONVERT.PAS) to assembler's byte array in [OUT.ASM](https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM). The code to draw the picture was added later. 
 
 The compressed pictures converted to assembler code could easlily fit into a few sectors between MBR and BPB on the hard drive. I used similar idea when I wrote [Boot Loader for two operating systems](https://github.com/Jandini/Jandini/blob/main/README.md#two-operating-systems-on-one-floppy-disk).
 
