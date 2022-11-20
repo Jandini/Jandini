@@ -110,7 +110,7 @@ I created simple [.NET framework for playing CTF](https://github.com/Jandini/Jan
 
 
 
-Participated in Capture The Flag events organized by [SANS](https://www.sans.org/uk/) on [My ranges.io](https://ranges.io/my-events?filter=finished)
+I participated in multiple Capture The Flag events organized by [SANS](https://www.sans.org/uk/) on [My ranges.io](https://ranges.io/my-events?filter=finished)
 
 | Name                                           | Finished At              | Challenges             | Position                 | Points                        |
 | ---------------------------------------------- | ------------------------ | ---------------------- | ------------------------ | ----------------------------- |
