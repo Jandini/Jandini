@@ -106,10 +106,6 @@ This is one projects I was working on, where I needed to bypass certian software
 
 I created simple [.NET framework for playing CTF](https://github.com/Jandini/Janda.CTF). 
 
-![ezgif-5-766ce72835](https://user-images.githubusercontent.com/19593367/202913808-0cccea17-21a7-4027-a371-08e4baf39231.gif)
-
-
-
 I participated in multiple Capture The Flag events organized by [SANS](https://www.sans.org/uk/) on [My ranges.io](https://ranges.io/my-events?filter=finished)
 
 | Name                                           | Finished At              | Challenges             | Position                 | Points                        |
@@ -121,7 +117,7 @@ I participated in multiple Capture The Flag events organized by [SANS](https://w
 | **Intermediate: Global Community CTF: BootUp** | 23:00 on 23 Apr 2021 BST | **13** of 24 completed | **88**th of 1293 players | **2,300** of 7,500 possible   |
 | **Global Community CTF: Bootup**               | 23:00 on 16 Oct 2021 BST | **36** of 45 completed | **20**th of 889 players  | **1,934** of 4,630 possible   |
 
-
+![ezgif-5-766ce72835](https://user-images.githubusercontent.com/19593367/202913808-0cccea17-21a7-4027-a371-08e4baf39231.gif)
 
 
 
