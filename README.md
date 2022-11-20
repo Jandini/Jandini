@@ -47,14 +47,14 @@ Program "Maszynistka" with the splash screen...
 ![MASZ-CRACK](https://user-images.githubusercontent.com/19593367/202403750-d7bf8743-2d03-4e1d-a2c0-8b5eba3237f0.gif)
 
 
-## Writing [TSRs](https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program) for DOS
+## [TSRs](https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program) programs for DOS
 
 TSR is Terminate and Stay Resident program which allowed to run your program in the background and let the DOS operating system continue. 
 This is where the journey with concept of viruses starts. 
 
 
 
-## Converting text mode pictures into assember code
+## Text mode pictures in assembler code
 
 I created a number of picutres in text mode and then converted them into assembler code. For example, the picture below was manually created in [X.ASM](https://github.com/Jandini/8086/tree/main/COMPRESS) (1536 bytes) and [compressed](https://github.com/Jandini/8086/blob/main/COMPRESS/COMPRESS.PAS) to C.ASM file (584 bytes). Compressed picture in C.ASM was [converted](https://github.com/Jandini/8086/blob/main/COMPRESS/CONVERT.PAS) to assembler's byte array in [OUT.ASM](https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM). The code to draw the picture was added later. 
 
@@ -85,7 +85,7 @@ Microsoft DOS v4.00 for Windows 95
 
 # Year 2005
 
-## Hard drive imaging through IDE ports for DOS
+## Hard drive imaging via IDE ports for DOS
 
 I wrote a simple hard drive imaging tool using [Borland Pascal](https://wiki.freepascal.org/Borland_Pascal). I used [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision) library to create user interface. The software was communicating with hard drive directly via ports to [Integrated Drive Electronics (IDE)](https://en.wikipedia.org/wiki/Parallel_ATA#IDE_and_ATA-1). IDE allowed up to four hard drives only.
 
