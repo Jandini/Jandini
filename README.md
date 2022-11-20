@@ -85,7 +85,7 @@ Why would you like to compress a code of picture that is only 1.5KB ?... Well, Y
 ## Two operating systems on one floppy disk
 
 I worte boot loader [MULTI.ASM](https://github.com/Jandini/8086/blob/main/MULTI/MULTI.ASM) which allowed me to put two operating systems on one floppy disk.
-User can select operating system from the menu...
+To make it a bit fancy I added animated floppy disk to the code. User can select operating system from the menu.
 
 Microsoft DOS v6.22
 
