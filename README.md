@@ -9,6 +9,9 @@ Here is what I was up to...
 
 * [Year 1998](https://github.com/Jandini/Jandini/blob/main/README.md#year-1998)
   * [Reverse Engineering in DOS](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-in-dos)
+  * [Writing TSRs for DOS](https://github.com/Jandini/Jandini/blob/main/README.md#writing-tsrs-for-dos)
+  * [Drawing and compressing pictures in text mode](https://github.com/Jandini/Jandini/blob/main/README.md#drawing-and-compressing-pictures-in-text-mode)
+  * [Two operating systems on one floppy disk](https://github.com/Jandini/Jandini/blob/main/README.md#two-operating-systems-on-one-floppy-disk)
 
 # Year 1998
 
