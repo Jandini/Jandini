@@ -67,10 +67,9 @@ This is where the journey with concept of viruses starts.
 
 ## Drawing and compressing pictures in text mode
 
-The picture was manually created in [X.ASM](https://github.com/Jandini/8086/tree/main/COMPRESS) (1536 bytes) and [compressed](https://github.com/Jandini/8086/blob/main/COMPRESS/COMPRESS.PAS) to C.ASM file (584 bytes). Then compressed picture in C.ASM was [converted](https://github.com/Jandini/8086/blob/main/COMPRESS/CONVERT.PAS) to assembler's byte array in [OUT.ASM](https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM).
-The code to draw the picture was added later. 
+I created a number of picutres in text mode and then translated them into assembler code. For example, the picture below was manually created in [X.ASM](https://github.com/Jandini/8086/tree/main/COMPRESS) (1536 bytes) and [compressed](https://github.com/Jandini/8086/blob/main/COMPRESS/COMPRESS.PAS) to C.ASM file (584 bytes). Compressed picture in C.ASM was [converted](https://github.com/Jandini/8086/blob/main/COMPRESS/CONVERT.PAS) to assembler's byte array in [OUT.ASM](https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM). The code to draw the picture was added later. 
 
-Why would you like to compress a code of picture that is only 1.5KB ?... Well, You might want to inject your code in the place where every byte count; for example MBR or BPB of your hard drive. 
+The compressed pictures converted to assembler code could easlily fit into a few sectors between MBR and BPB on the hard drive. I used similar idea when I wrote [Boot Loader for two operating systems](https://github.com/Jandini/Jandini/blob/main/README.md#two-operating-systems-on-one-floppy-disk).
 
 
 [OUT.ASM](https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM)
@@ -85,7 +84,7 @@ Why would you like to compress a code of picture that is only 1.5KB ?... Well, Y
 ## Two operating systems on one floppy disk
 
 I worte boot loader [MULTI.ASM](https://github.com/Jandini/8086/blob/main/MULTI/MULTI.ASM) which allowed me to put two operating systems on one floppy disk.
-To make it a bit fancy I added animated floppy disk to the code. User can select operating system from the menu.
+I added animated floppy disk picture to the code to make the boot loader a bit more fancy. User can select operating system from the menu.
 
 Microsoft DOS v6.22
 
@@ -124,7 +123,7 @@ The screen shoots show one of the project I was working on in the past. I needed
 
 ## Capture The Flag 
 
-Created simple [.NET framework for playing CTF](https://github.com/Jandini/Janda.CTF). 
+I created simple [.NET framework for playing CTF](https://github.com/Jandini/Janda.CTF). 
 
 ![ezgif-5-766ce72835](https://user-images.githubusercontent.com/19593367/202913808-0cccea17-21a7-4027-a371-08e4baf39231.gif)
 
