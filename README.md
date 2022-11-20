@@ -92,7 +92,7 @@ This was my last software written for DOS. You can find the code in [IDE reposit
 
 [SoftICE](https://en.wikipedia.org/wiki/SoftICE) was my favourite debugger for Windows XP/2000. 
 
-This is one projects I was working on in the past. I needed to bypass certian behaviour in the software.  
+This is one projects I was working on, where I needed to bypass certian software behaviour...
 
 ![ezgif-4-45d0f61e6a](https://user-images.githubusercontent.com/19593367/202902998-ccb67e05-fb02-4c4b-b76a-4bcda79b5f3f.gif)
 
