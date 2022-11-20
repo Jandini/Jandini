@@ -25,12 +25,11 @@ I used Turbo Debugger to figure out how to skip the splash screen. This is how I
 
 ![TD_MASZ](https://user-images.githubusercontent.com/19593367/202817851-761425ca-0336-4240-a197-2a9984db452f.gif)
 
-I let the program to execute until I found the splash screen call. I applied simple [NOP slide](https://en.wikipedia.org/wiki/NOP_slide) over the splash screen call (3 bytes only). 
+I let the program to execute until I found the splash screen call. I applied simple [NOP slide](https://en.wikipedia.org/wiki/NOP_slide) over the splash screen call. Three bytes only. 
 
 The challenge was that the code of the program was encoded. I could not make permanent change to MASZ.EXE binaries. 
 
 I wrote my own debugger. The assembler code in [CRACK.ASM](https://github.com/Jandini/8086/blob/main/CRACK/CRACK.ASM) repeats steps required to bypass the splash screen. Instead running MASZ.EXE the program can be executed via CRACK.COM which skips the splash screen.  
-
 
 Program "Maszynistka" with the splash screen...
 
