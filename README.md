@@ -96,6 +96,14 @@ Microsoft DOS v4.00 for Windows 95
 ![W95-screen0-W95 (online-video-cutter com) 720x400](https://user-images.githubusercontent.com/19593367/202869953-7a4444dc-44f0-4039-8c0b-95d60cdf7b00.gif)
 
 
+# Year 2006
+
+## Software Reverse Engineering with SoftICE
+
+[SoftICE](https://en.wikipedia.org/wiki/SoftICE) was my favourite debugger for Windows 2000/XP. 
+
+![ezgif-4-45d0f61e6a](https://user-images.githubusercontent.com/19593367/202902998-ccb67e05-fb02-4c4b-b76a-4bcda79b5f3f.gif)
+
 
 
 # Year 2020
