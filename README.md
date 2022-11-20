@@ -109,8 +109,10 @@ This was my last software written for DOS. You can find the code in [IDE reposit
 
 ## Software Reverse Engineering with SoftICE
 
-[SoftICE](https://en.wikipedia.org/wiki/SoftICE) was my favourite debugger for Windows 2000/XP. 
 
+[SoftICE](https://en.wikipedia.org/wiki/SoftICE) was my favourite debugger for Windows XP/2000. 
+
+The screen shoots are coming from one of the projects I was working on in the past. I needed to bypass certian behaviour of software.  
 ![ezgif-4-45d0f61e6a](https://user-images.githubusercontent.com/19593367/202902998-ccb67e05-fb02-4c4b-b76a-4bcda79b5f3f.gif)
 
 
