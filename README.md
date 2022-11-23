@@ -125,5 +125,12 @@ I participated in multiple Capture The Flag events organized by [SANS](https://w
 
 
 
+# Year 2022
+
+## Github and Jira metics in Kibana
+
+![ezgif-2-2c0cd0e8e7](https://user-images.githubusercontent.com/19593367/203609416-8f783f07-eac5-40db-9643-4bdf11622236.gif)
+
+
 
 
