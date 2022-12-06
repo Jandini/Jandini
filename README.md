@@ -9,7 +9,7 @@ It was exciting time writing software using assembler and pascal for DOS.
 You can find all my assembler source codes and binaries in [8086](https://github.com/Jandini/8086) repository.
 The code can be executed only under [DosBox](https://www.dosbox.com/). Kudos to the authors for keeping the legacy alive.
 
-Multi-Edit was one of thr text editors to edit assembler code.
+Multi-Edit was one of the text editors to edit assembler code.
 
 ![ME_MASZ](https://user-images.githubusercontent.com/19593367/202818994-3e053783-9911-48be-be54-11750ee33fd1.gif)
 
