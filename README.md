@@ -115,14 +115,14 @@ The data is automatically processed and published for review.
 
 ![iv](https://user-images.githubusercontent.com/19593367/207027210-7e28ef89-10f0-4957-8dc6-08e370e93f8b.gif)
 
-Key features
+#### Key features
 
 * Isolated, self serived client workspaces. 
 * Role based access to client's workspaces.
 * Client can create projects, add users and assign them to the projects.
-* Drag and drop files like archives, mailboxes or standalone documents.
 * User can open multiple projects in separate web browser tabs.
-
+* Drag and drop files like archives, mailboxes or standalone documents.
+* Data processing powered by ICE processing engine.
 
 
 # Year 2020
