@@ -127,7 +127,8 @@ The data is automatically processed and published for review.
 * Document coding
 * Mass document coding
 * Keyword search powered by dtSearch
-* Filtering by coding
+* Filter by document coding
+* Filter by document date
 
 # Year 2020
 
