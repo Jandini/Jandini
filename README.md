@@ -124,6 +124,10 @@ The data is automatically processed and published for review.
 * Drag and drop files like archives, mailboxes or standalone documents.
 * Data processing powered by ICE processing engine.
 
+* Document coding
+* Mass document coding
+* Keyword search powered by dtSearch
+* Filtering by coding
 
 # Year 2020
 
