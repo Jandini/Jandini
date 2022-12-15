@@ -106,6 +106,8 @@ This is one projects I was working on, where I needed to bypass certian software
 
 I designed simple and fast document review platform for Electronic Discovery. 
 I wrote back bone of the application and with a small team of talented developers completed the project.
+
+
 User can drag and drop data through the web browser.
 The data is automatically processed and published for review.
 
