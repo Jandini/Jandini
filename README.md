@@ -130,6 +130,7 @@ The data is automatically processed and published for review.
 * Search documents by date and coding.
 * Saved searches.
 * Show unseen documents.
+* Download documents.
 * Print documents into PDF.
 
 # Year 2020
