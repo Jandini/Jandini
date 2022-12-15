@@ -105,7 +105,7 @@ This is one projects I was working on, where I needed to bypass certian software
 ## Lightweight Document Review Platform
 
 I designed simple and fast document review platform for Electronic Discovery. 
-I wrote the back bone of the application using and then with a small team of talented developers completed the project.
+I wrote the back bone of the application and with a small team of talented developers completed the project.
 User can drag and drop data through the web browser.
 The data is automatically processed and published for review.
 
