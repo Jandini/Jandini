@@ -13,8 +13,7 @@ Multi-Edit was one of the text editors to write and run assembler code.
 
 ![ME_MASZ](https://user-images.githubusercontent.com/19593367/202818994-3e053783-9911-48be-be54-11750ee33fd1.gif)
 
-I used Borlad Pascal to write and run code written in Pascal language...
-
+I used Borlad Pascal to write and run code written in Pascal language.
 
 ## Software Reverse Engineering in DOS
 
@@ -124,11 +123,14 @@ The data is automatically processed and published for review.
 * Drag and drop files like archives, mailboxes or standalone documents.
 * Data processing powered by ICE processing engine.
 
-* Document coding
-* Mass document coding
-* Keyword search powered by dtSearch
-* Filter by document coding
-* Filter by document date
+* Customizable coding templates.
+* Code documents based on isseue or relevance.
+* Mass code multiple documents.
+* Keyword search powered by dtSearch.
+* Search documents by date and coding.
+* Saved searches.
+* Show unseen documents.
+* Print documents into PDF.
 
 # Year 2020
 
