@@ -122,7 +122,7 @@ The data is automatically processed and published for review.
 * User can open multiple projects in separate web browser tabs.
 * Drag and drop files like archives, mailboxes or standalone documents.
 * Data processing powered by ICE processing engine.
-
+* Data deduplication.
 * Customizable coding templates.
 * Code documents based on isseue or relevance.
 * Mass code multiple documents.
@@ -130,6 +130,7 @@ The data is automatically processed and published for review.
 * Search documents by date and coding.
 * Saved searches.
 * Show unseen documents.
+* Show duplicate documents.
 * Download documents.
 * Print documents into PDF.
 
