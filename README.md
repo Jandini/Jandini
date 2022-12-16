@@ -164,7 +164,9 @@ I participated in multiple Capture The Flag events organized by [SANS](https://w
 
 I moved my career into management in 2018. Yet, I am still developing in my own time. 
 Management is easier if you find a way to measure success of your team. 
-Since my company was using Jira for project management and GitHub for development I created fully containerised platform which visualise developers pertivipation in the project.
+Since my company was using Jira for project management and GitHub for development I created fully containerised platform which visualise developers participation within the projects.
+
+The platform is build using Kibana, Elasticsearch and the Metics service which is responsible to transfer data from Jira and Github.
 
 
 ![ezgif-2-2c0cd0e8e7](https://user-images.githubusercontent.com/19593367/203609416-8f783f07-eac5-40db-9643-4bdf11622236.gif)
