@@ -3,6 +3,155 @@ My name is Matt Janda,
 I would like to share my software engineering journey over the years. You can find here some of the projects I was working on and the tools I was using.
 
 
+
+
+
+
+# Year 2022
+
+## Github and Jira metics in Kibana
+
+I moved my career into management in 2018. Yet, I am still developing in my own time. 
+Management is easier if you find a way to measure success of your team. 
+Since my company was using Jira for project management and GitHub for development I created fully containerised platform which visualise developers participation within the projects.
+
+The platform consist of Kibana, Elasticsearch and the Metics service. 
+Metrics service is responsible for transferring relevant data from Jira and Github to Elasticsearch.
+
+
+![ezgif-2-2c0cd0e8e7](https://user-images.githubusercontent.com/19593367/203609416-8f783f07-eac5-40db-9643-4bdf11622236.gif)
+
+
+
+
+# Year 2020
+
+
+
+## Capture The Flag 
+
+I created simple [.NET framework for playing CTF](https://github.com/Jandini/Janda.CTF). 
+
+I participated in multiple Capture The Flag events organized by [SANS](https://www.sans.org/uk/) on [My ranges.io](https://ranges.io/my-events?filter=finished)
+
+| Name                                           | Finished At              | Challenges             | Position                 | Points                        |
+| ---------------------------------------------- | ------------------------ | ---------------------- | ------------------------ | ----------------------------- |
+| **SANS Community CTF**                         | 14:00 on 17 Oct 2020 BST | **35** of 37 completed | **21**st of 1055 players | **12,750** of 13,500 possible |
+| **SANS Community CTF - November**              | 13:00 on 23 Nov 2020 GMT | **61** of 62 completed | **27**th of 1690 players | **19,850** of 20,350 possible |
+| **Cyber Camp 2020**                            | 04:59 on 7 Jan 2021 GMT  | **37** of 39 completed | **26**th of 360 players  | **10,050** of 11,550 possible |
+| **Global Community CTF: Mini BootUp**          | 18:00 on 19 Feb 2021 GMT | **32** of 32 completed | **17**th of 360 players  | **8,500** of 8,500 possible   |
+| **Intermediate: Global Community CTF: BootUp** | 23:00 on 23 Apr 2021 BST | **13** of 24 completed | **88**th of 1293 players | **2,300** of 7,500 possible   |
+| **Global Community CTF: Bootup**               | 23:00 on 16 Oct 2021 BST | **36** of 45 completed | **20**th of 889 players  | **1,934** of 4,630 possible   |
+
+![ezgif-5-766ce72835](https://user-images.githubusercontent.com/19593367/202913808-0cccea17-21a7-4027-a371-08e4baf39231.gif)
+
+
+
+
+
+# Year 2018
+
+## Lightweight Document Review Platform
+
+I designed simple and fast document review platform for Electronic Discovery. 
+I wrote back bone of the application and with a small team of talented developers completed the project.
+
+
+User can drag and drop data through the web browser.
+The data is automatically processed and published for review.
+
+
+
+![iv](https://user-images.githubusercontent.com/19593367/207027210-7e28ef89-10f0-4957-8dc6-08e370e93f8b.gif)
+
+#### Key features
+
+* Isolated, self serived client workspaces. 
+* Role based access to client's workspaces.
+* Client can create projects, add users and assign them to the projects.
+* User can open multiple projects in separate web browser tabs.
+* Drag and drop files like archives, mailboxes or standalone documents.
+* Data processing powered by ICE processing engine.
+* Data deduplication.
+* Customizable coding templates.
+* Code documents based on isseue or relevance.
+* Mass code multiple documents.
+* Keyword search powered by dtSearch.
+* Search documents by date and coding.
+* Saved searches.
+* Show unseen documents.
+* Show duplicate documents.
+* Download documents.
+* Print documents into PDF.
+
+
+
+
+# Year 2006
+
+## Hard drive imaging via IDE ports for DOS
+
+I wrote a simple hard drive imaging tool using [Borland Pascal](https://wiki.freepascal.org/Borland_Pascal). I used [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision) library to create user interface. The software was communicating with hard drive directly via [Integrated Drive Electronics (IDE)](https://en.wikipedia.org/wiki/Parallel_ATA#IDE_and_ATA-1) ports.
+
+![IDE](https://user-images.githubusercontent.com/19593367/202914760-7c92e881-efb1-4f33-b8b1-5045124ddf71.gif)
+
+Running under Windows 98 with virtual hard drive...
+
+![ezgif-1-36dfefd664](https://user-images.githubusercontent.com/19593367/202930593-f7812490-64f4-4a5b-a478-9a5179d69eae.gif)
+
+
+This was my last software written for DOS. You can find the code in [IDE repository](https://github.com/Jandini/IDE).
+
+
+## Software Reverse Engineering with SoftICE
+
+[SoftICE](https://en.wikipedia.org/wiki/SoftICE) was my favourite debugger for Windows XP/2000. 
+
+This is one projects I was working on, where I needed to bypass certian software behaviour...
+
+![ezgif-4-45d0f61e6a](https://user-images.githubusercontent.com/19593367/202902998-ccb67e05-fb02-4c4b-b76a-4bcda79b5f3f.gif)
+
+
+
+
+
+
+# Year 2005
+
+## Data erasing software 
+
+I worte first version of MediaEraser. MediaEraser was fully written in C++ using WTL library to provide user interface. 
+
+![me3 0](https://user-images.githubusercontent.com/19593367/209659443-cf010e6b-b200-41b9-8ef4-c3375ca30c4c.gif)
+
+Erase volume settings
+
+![me9-volume-settings](https://user-images.githubusercontent.com/19593367/209660629-d5fd5522-4cb9-49e9-87f6-faf3a82a06a9.gif)
+
+Erase volume
+
+![me15-volume](https://user-images.githubusercontent.com/19593367/209661455-52bc60e7-5823-4dc7-9295-7fea07519766.gif)
+
+
+Erase volume free space and slack space
+
+![me4-freesace-slack](https://user-images.githubusercontent.com/19593367/209660019-c861324d-26b2-41ca-812f-735a7b9f7594.gif)
+ 
+Erase drive settings 
+
+![me8-drive-settings](https://user-images.githubusercontent.com/19593367/209660608-4801b31f-0195-4723-8650-169eb96cb73d.gif)
+
+Erase physical drives
+
+![me6-drive](https://user-images.githubusercontent.com/19593367/209660333-a2edc2be-54f8-49b5-b329-c729aaea3a2a.gif)
+ 
+
+
+
+
+
+
+
 # Year 1998
 
 It was exciting time writing software using assembler and pascal for DOS. 
@@ -73,105 +222,3 @@ Microsoft DOS 4.00 for Windows 95
 ![W95-screen0-W95 (online-video-cutter com) 720x400](https://user-images.githubusercontent.com/19593367/202869953-7a4444dc-44f0-4039-8c0b-95d60cdf7b00.gif)
 
 The physical image of the 1.44MB floppy disk is available in the [repository](https://github.com/Jandini/8086/blob/main/MULTI/floppy.flp).
-
-
-# Year 2006
-
-## Hard drive imaging via IDE ports for DOS
-
-I wrote a simple hard drive imaging tool using [Borland Pascal](https://wiki.freepascal.org/Borland_Pascal). I used [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision) library to create user interface. The software was communicating with hard drive directly via [Integrated Drive Electronics (IDE)](https://en.wikipedia.org/wiki/Parallel_ATA#IDE_and_ATA-1) ports.
-
-![IDE](https://user-images.githubusercontent.com/19593367/202914760-7c92e881-efb1-4f33-b8b1-5045124ddf71.gif)
-
-Running under Windows 98 with virtual hard drive...
-
-![ezgif-1-36dfefd664](https://user-images.githubusercontent.com/19593367/202930593-f7812490-64f4-4a5b-a478-9a5179d69eae.gif)
-
-
-This was my last software written for DOS. You can find the code in [IDE repository](https://github.com/Jandini/IDE).
-
-
-## Software Reverse Engineering with SoftICE
-
-[SoftICE](https://en.wikipedia.org/wiki/SoftICE) was my favourite debugger for Windows XP/2000. 
-
-This is one projects I was working on, where I needed to bypass certian software behaviour...
-
-![ezgif-4-45d0f61e6a](https://user-images.githubusercontent.com/19593367/202902998-ccb67e05-fb02-4c4b-b76a-4bcda79b5f3f.gif)
-
-
-# Year 2018
-
-## Lightweight Document Review Platform
-
-I designed simple and fast document review platform for Electronic Discovery. 
-I wrote back bone of the application and with a small team of talented developers completed the project.
-
-
-User can drag and drop data through the web browser.
-The data is automatically processed and published for review.
-
-
-
-![iv](https://user-images.githubusercontent.com/19593367/207027210-7e28ef89-10f0-4957-8dc6-08e370e93f8b.gif)
-
-#### Key features
-
-* Isolated, self serived client workspaces. 
-* Role based access to client's workspaces.
-* Client can create projects, add users and assign them to the projects.
-* User can open multiple projects in separate web browser tabs.
-* Drag and drop files like archives, mailboxes or standalone documents.
-* Data processing powered by ICE processing engine.
-* Data deduplication.
-* Customizable coding templates.
-* Code documents based on isseue or relevance.
-* Mass code multiple documents.
-* Keyword search powered by dtSearch.
-* Search documents by date and coding.
-* Saved searches.
-* Show unseen documents.
-* Show duplicate documents.
-* Download documents.
-* Print documents into PDF.
-
-# Year 2020
-
-
-
-## Capture The Flag 
-
-I created simple [.NET framework for playing CTF](https://github.com/Jandini/Janda.CTF). 
-
-I participated in multiple Capture The Flag events organized by [SANS](https://www.sans.org/uk/) on [My ranges.io](https://ranges.io/my-events?filter=finished)
-
-| Name                                           | Finished At              | Challenges             | Position                 | Points                        |
-| ---------------------------------------------- | ------------------------ | ---------------------- | ------------------------ | ----------------------------- |
-| **SANS Community CTF**                         | 14:00 on 17 Oct 2020 BST | **35** of 37 completed | **21**st of 1055 players | **12,750** of 13,500 possible |
-| **SANS Community CTF - November**              | 13:00 on 23 Nov 2020 GMT | **61** of 62 completed | **27**th of 1690 players | **19,850** of 20,350 possible |
-| **Cyber Camp 2020**                            | 04:59 on 7 Jan 2021 GMT  | **37** of 39 completed | **26**th of 360 players  | **10,050** of 11,550 possible |
-| **Global Community CTF: Mini BootUp**          | 18:00 on 19 Feb 2021 GMT | **32** of 32 completed | **17**th of 360 players  | **8,500** of 8,500 possible   |
-| **Intermediate: Global Community CTF: BootUp** | 23:00 on 23 Apr 2021 BST | **13** of 24 completed | **88**th of 1293 players | **2,300** of 7,500 possible   |
-| **Global Community CTF: Bootup**               | 23:00 on 16 Oct 2021 BST | **36** of 45 completed | **20**th of 889 players  | **1,934** of 4,630 possible   |
-
-![ezgif-5-766ce72835](https://user-images.githubusercontent.com/19593367/202913808-0cccea17-21a7-4027-a371-08e4baf39231.gif)
-
-
-
-# Year 2022
-
-## Github and Jira metics in Kibana
-
-I moved my career into management in 2018. Yet, I am still developing in my own time. 
-Management is easier if you find a way to measure success of your team. 
-Since my company was using Jira for project management and GitHub for development I created fully containerised platform which visualise developers participation within the projects.
-
-The platform consist of Kibana, Elasticsearch and the Metics service. 
-Metrics service is responsible for transferring relevant data from Jira and Github to Elasticsearch.
-
-
-![ezgif-2-2c0cd0e8e7](https://user-images.githubusercontent.com/19593367/203609416-8f783f07-eac5-40db-9643-4bdf11622236.gif)
-
-
-
-
