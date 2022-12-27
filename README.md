@@ -133,7 +133,7 @@ Erase volume
 ![me15-volume](https://user-images.githubusercontent.com/19593367/209661455-52bc60e7-5823-4dc7-9295-7fea07519766.gif)
 
 
-Erase volume free space and slack space
+Erase volume free space and file slack space
 
 ![me4-freesace-slack](https://user-images.githubusercontent.com/19593367/209660019-c861324d-26b2-41ca-812f-735a7b9f7594.gif)
  
@@ -141,7 +141,7 @@ Erase drive settings
 
 ![me8-drive-settings](https://user-images.githubusercontent.com/19593367/209660608-4801b31f-0195-4723-8650-169eb96cb73d.gif)
 
-Erase physical drives
+Erase physical drive
 
 ![me6-drive](https://user-images.githubusercontent.com/19593367/209660333-a2edc2be-54f8-49b5-b329-c729aaea3a2a.gif)
  
