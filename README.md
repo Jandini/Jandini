@@ -146,6 +146,9 @@ Erase physical drives
 ![me6-drive](https://user-images.githubusercontent.com/19593367/209660333-a2edc2be-54f8-49b5-b329-c729aaea3a2a.gif)
  
 
+Erase files from Windows Explorer's context menu
+
+![me](https://user-images.githubusercontent.com/19593367/209666487-b871f2da-ce07-413d-bac3-36e5ec3b203c.png)
 
 
 
