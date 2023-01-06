@@ -29,11 +29,11 @@ Copyright (C) 2023 Matt Janda
 
 Key features:
 
-* Capture active window
-  * Start capture when window with given title become active. After this any active window will be captured. 
-  * Provide case sesitive, full or partial window title which will trigger the capture.
-  * Capture only window with given title. The capture will pause if active window is does not match given title.
-  * Save individual frames as PNG files.
+* Capture active windows
+* Provide case sesitive, full or partial window title to trigger the capture.
+* Start capture when window with given title become active. After this any active window will be captured. 
+* Capture only window with given title. The capture will pause if active window is does not match given title.
+* Save individual frames as PNG files.
 * Make GIF file from individual frames saved in PNG files.
 * Provide delay between taking screen shoots in milliseconds.
 * Provide delay between GIF frames in milliseconds. (33ms delay between frames equals ~30fps)
@@ -106,7 +106,7 @@ The data is automatically processed and published for review.
 
 ![iv](https://user-images.githubusercontent.com/19593367/207027210-7e28ef89-10f0-4957-8dc6-08e370e93f8b.gif)
 
-#### Key features
+Key features:
 
 * Isolated, self serived client workspaces. 
 * Role based access to client's workspaces.
