@@ -9,6 +9,48 @@ I would like to share my software engineering journey over the years. You can fi
 
 # Year 2022
 
+## WinGif
+
+I created [WinGif](https://github.com/Jandini/WinGif), a simple windows screen capture tool that allows to quickly create animated gif files. 
+It can create animated GIF files by capturing given window title or make it from individual frames saved in PNG files.  
+```
+WinGif 0.2.0
+Copyright (C) 2023 Matt Janda
+
+  capture    (Default Verb) Create animated GIF by capturing active window.
+
+  make       Make animated GIF from PNG files.
+
+  help       Display more information on a specific command.
+
+  version    Display version information.
+```
+
+
+Key features:
+
+* Capture active window
+  * Start capture when window with given title become active. After this any active window will be captured. 
+  * Provide case sesitive, full or partial window title which will trigger the capture.
+  * Capture only window with given title. The capture will pause if active window is does not match given title.
+  * Save individual frames as PNG files.
+* Make GIF file from individual frames saved in PNG files.
+* Provide delay between taking screen shoots in milliseconds.
+* Provide delay between GIF frames in milliseconds. (33ms delay between frames equals ~30fps)
+* Allow self capture. By default WinGif will pause capturing when the window with WinGif title is active.
+
+
+
+Self capture and "Chrome" window capture.
+
+![wingif2](https://user-images.githubusercontent.com/19593367/207033078-c1ed8e1f-db43-41c5-9228-0a86db18efc8.gif)
+
+
+Make a new gif file from png frames saved by WinGif. 
+
+![image](https://user-images.githubusercontent.com/19593367/207031957-4e51fd1c-fc4e-4d9f-98e3-7cdfb712fd81.png)
+
+
 ## Github and Jira metics in Kibana
 
 I moved my career into management in 2018. Yet, I am still developing in my own time. 
