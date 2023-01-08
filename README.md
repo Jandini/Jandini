@@ -175,21 +175,22 @@ This is one projects I was working on, where I needed to bypass certian software
 
 ## Data erasing software 
 
-MediaEraser was was build conditionally into three versions: free, standard and full. Each build contained only the code of the features available in given version.
+MediaEraser was compiled into three feature versions: Free (lite), Standard and Full. Each build contained only the code for the features available in given version.
 The free version of MediaEraser can be still downloaded from websites like [programy.net.pl](https://programy.net.pl/program,mediaeraser.html)
 
 ![image](https://user-images.githubusercontent.com/19593367/211175133-73168ba8-11ea-4b11-8ba2-56c8d6df20dc.png)
 
-The first lite version of Media Eraser 2.0a was limited to delete signle file below 10Kb only.
+The lite version of Media Eraser 2.0a was limited to signle file deletion below 10Kb only. The user interface was only the settings for file deletion. 
 
 ![virtualboxcrop](https://user-images.githubusercontent.com/19593367/211201131-55ac07fd-f560-4d4c-8676-e59e5a62b99b.gif)
 
 
 The full version offered many more features like:
 
-* Erase entire volume
-* Erase free space and slack space
-* Erase physical drive
+* Recursively erase multiple file and folders from Windows explorer's context menu
+* Erase entire partitions (volumes)
+* Erase free space, slack space and information about files deleted without MediaEraser
+* Erase entire physical hard drives
 
 MediaEraser was fully written in C++ with WTL for GUI. MediaEraser was one of the fastest data erasing tools at the time. 
 
