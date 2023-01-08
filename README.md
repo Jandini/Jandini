@@ -1,6 +1,6 @@
 My name is Matt Janda,
 
-I would like to share my software engineering journey over the years. You can find here some of the projects I was working on and the tools I was using.
+I would like to share my software engineering journey over the years. You can find here overview of the software I created and the tools I was using.
 
 
 
@@ -175,7 +175,8 @@ This is one projects I was working on, where I needed to bypass certian software
 
 ## Data erasing software 
 
-First version of MediaEraser I wrote was available as freeware. It can be still downloaded from many websites like [programy.net.pl](https://programy.net.pl/program,mediaeraser.html)
+
+First version of MediaEraser was available as freeware. It can be still downloaded from websites like [programy.net.pl](https://programy.net.pl/program,mediaeraser.html)
 
 ![image](https://user-images.githubusercontent.com/19593367/211175133-73168ba8-11ea-4b11-8ba2-56c8d6df20dc.png)
 
@@ -184,22 +185,25 @@ The free version of Media Eraser had limited functionality which allowed only to
 ![image](https://user-images.githubusercontent.com/19593367/211175208-d1cfe333-acd2-42e6-bac6-a8dda04291ef.png)
 
 
+The full version offered many more features like:
 
+* Erase entire volume
+* Erase free space and slack space
+* Erase physical drive
 
-MediaEraser was fully written in C++ using WTL library to provide user interface. 
+MediaEraser was fully written in C++ with WTL for GUI. MediaEraser was one of the fastest data erasing tools at the time. 
 
 ![me3 0](https://user-images.githubusercontent.com/19593367/209659443-cf010e6b-b200-41b9-8ef4-c3375ca30c4c.gif)
 
-Erase volume settings
+
+
+Erase entrie volume
 
 ![me9-volume-settings](https://user-images.githubusercontent.com/19593367/209660629-d5fd5522-4cb9-49e9-87f6-faf3a82a06a9.gif)
-
-Erase volume
-
 ![me15-volume](https://user-images.githubusercontent.com/19593367/209661455-52bc60e7-5823-4dc7-9295-7fea07519766.gif)
 
 
-Erase volume free space and file slack space
+Erase free space and slack space. 
 
 ![me4-freesace-slack](https://user-images.githubusercontent.com/19593367/209660019-c861324d-26b2-41ca-812f-735a7b9f7594.gif)
  
