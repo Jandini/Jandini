@@ -55,7 +55,11 @@ Make a new gif file from png frames saved by WinGif.
 # Year 2022
 
 
-## .NET templates 
+## .NET template for console application
+
+[Janda.Go](https://github.com/Jandini/Janda.Go) provides simple console application startup code with dependency injection, logging, and configuration.
+The template is available as [Nuget package](https://www.nuget.org/packages/Janda.Go) that can be accessed directly using `dotnet new install Janda.Go` command.
+
 
 ![JandaGo](https://user-images.githubusercontent.com/19593367/211174559-b45486cd-20d8-49fe-839d-7d7a50d6395d.gif)
 
