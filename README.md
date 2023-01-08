@@ -180,9 +180,9 @@ The free version of MediaEraser can be still downloaded from websites like [prog
 
 ![image](https://user-images.githubusercontent.com/19593367/211175133-73168ba8-11ea-4b11-8ba2-56c8d6df20dc.png)
 
-The free version of Media Eraser had limited functionality which allowed only to delete signle file below 10Kb. Some of the settings could not be changed. 
+The first lite version of Media Eraser 2.0a was limited to delete signle file below 10Kb only.
 
-![Uploading virtualboxcrop.gif…](
+![virtualboxcrop](https://user-images.githubusercontent.com/19593367/211201131-55ac07fd-f560-4d4c-8676-e59e5a62b99b.gif)
 
 
 The full version offered many more features like:
