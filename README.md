@@ -197,16 +197,21 @@ MediaEraser was fully written in C++ with WTL for GUI. MediaEraser was one of th
 
 
 
-Erase entrie volume
+Erase volume settings offered **Complete volume erase (destructive)** and **Partial volume erase (safe)** erase options. 
 
 ![me9-volume-settings](https://user-images.githubusercontent.com/19593367/209660629-d5fd5522-4cb9-49e9-87f6-faf3a82a06a9.gif)
+
+
+**Complete volume erase (destructive)** physically erase entire volume no matter what file system the partition is formatted to. Once the volume is erased it has to be formatted to be accessible by operating system.
+
 ![me15-volume](https://user-images.githubusercontent.com/19593367/209661455-52bc60e7-5823-4dc7-9295-7fea07519766.gif)
 
 
-Erase free space and slack space. 
+**Partial volume erase (safe)** option erase free space, slack space and optionally unused MFT entries. Slack space is the area of a hard drive ranging from the end of a stored file to the end of that file cluster. Unused MFT entries holds information about files deleted without MediaEraser. 
 
 ![me4-freesace-slack](https://user-images.githubusercontent.com/19593367/209660019-c861324d-26b2-41ca-812f-735a7b9f7594.gif)
- 
+
+
 Erase drive settings 
 
 ![me8-drive-settings](https://user-images.githubusercontent.com/19593367/209660608-4801b31f-0195-4723-8650-169eb96cb73d.gif)
