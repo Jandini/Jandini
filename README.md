@@ -180,9 +180,9 @@ The free version of MediaEraser can be still downloaded from websites like [prog
 
 ![image](https://user-images.githubusercontent.com/19593367/211175133-73168ba8-11ea-4b11-8ba2-56c8d6df20dc.png)
 
-The free version of Media Eraser had limited functionality which allowed only to delete files. Some of the settings could not be changed. 
+The free version of Media Eraser had limited functionality which allowed only to delete signle file below 10Kb. Some of the settings could not be changed. 
 
-![image](https://user-images.githubusercontent.com/19593367/211175208-d1cfe333-acd2-42e6-bac6-a8dda04291ef.png)
+![Uploading virtualboxcrop.gif…](
 
 
 The full version offered many more features like:
