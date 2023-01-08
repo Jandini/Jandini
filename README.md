@@ -175,8 +175,8 @@ This is one projects I was working on, where I needed to bypass certian software
 
 ## Data erasing software 
 
-
-First version of MediaEraser was available as freeware. It can be still downloaded from websites like [programy.net.pl](https://programy.net.pl/program,mediaeraser.html)
+MediaEraser was was build conditionally into three versions: free, standard and full. Each build contained only the code of the features available in given version.
+The free version of MediaEraser can be still downloaded from websites like [programy.net.pl](https://programy.net.pl/program,mediaeraser.html)
 
 ![image](https://user-images.githubusercontent.com/19593367/211175133-73168ba8-11ea-4b11-8ba2-56c8d6df20dc.png)
 
