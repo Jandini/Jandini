@@ -175,7 +175,18 @@ This is one projects I was working on, where I needed to bypass certian software
 
 ## Data erasing software 
 
-I worte first version of MediaEraser. MediaEraser was fully written in C++ using WTL library to provide user interface. 
+First version of MediaEraser I wrote was available as freeware. It can be still downloaded from many websites like [programy.net.pl](https://programy.net.pl/program,mediaeraser.html)
+
+![image](https://user-images.githubusercontent.com/19593367/211175133-73168ba8-11ea-4b11-8ba2-56c8d6df20dc.png)
+
+The free version of Media Eraser had limited functionality which allowed only to delete files. Some of the settings could not be changed. 
+
+![image](https://user-images.githubusercontent.com/19593367/211175208-d1cfe333-acd2-42e6-bac6-a8dda04291ef.png)
+
+
+
+
+MediaEraser was fully written in C++ using WTL library to provide user interface. 
 
 ![me3 0](https://user-images.githubusercontent.com/19593367/209659443-cf010e6b-b200-41b9-8ef4-c3375ca30c4c.gif)
 
