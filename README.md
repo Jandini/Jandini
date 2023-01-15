@@ -12,7 +12,8 @@ I would like to share my software engineering journey over the years. You can fi
 * [Hard drive imaging via IDE ports for DOS](https://github.com/Jandini/Jandini/blob/main/README.md#hard-drive-imaging-via-ide-ports-for-dos)
 * [Software Reverse Engineering with SoftICE](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-with-softice)
 * [Media Eraser](https://github.com/Jandini/Jandini/blob/main/README.md#media-eraser)
-* [Assembler for 8086 and Pascal](https://github.com/Jandini/Jandini/blob/main/README.md#assembler-for-8086-and-pascal)
+* [Interrupt List Navigator](https://github.com/Jandini/Jandini/blob/main/README.md#interrupt-list-navigator)
+* [Assembler for 8086](https://github.com/Jandini/Jandini/blob/main/README.md#assembler-for-8086)
 * [Software Reverse Engineering in DOS](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-in-dos)
 * [TSR programs for DOS](https://github.com/Jandini/Jandini/blob/main/README.md#tsr-programs-for-dos)
 * [Text mode pictures in Assembler](https://github.com/Jandini/Jandini/blob/main/README.md#text-mode-pictures-in-assembler)
@@ -274,6 +275,7 @@ Erase files from Windows Explorer's context menu.
 
 ---
 ###### Year 2000
+# Interrupt List Navigator
 
 Simple tool written in Delphi 5 to provide a quick search for Interrupt List (Release 60, Last change 03 jan 99) created by Ralf Brown.
 
@@ -290,7 +292,7 @@ The tools offsers quick search by typing interrupt number with AH/AX register va
 
 ---
 ###### Year 1998
-# Assembler for 8086 and Pascal
+# Assembler for 8086
 
 It was exciting time writing software using assembler and pascal for DOS. 
 You can find all my assembler source codes and binaries in [8086](https://github.com/Jandini/8086) repository.
@@ -300,7 +302,6 @@ Multi-Edit was one of the text editors to write and run assembler code.
 
 ![ME_MASZ](https://user-images.githubusercontent.com/19593367/202818994-3e053783-9911-48be-be54-11750ee33fd1.gif)
 
-I used Borlad Pascal to write and run code written in Pascal language.
 
 
 
