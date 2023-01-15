@@ -1,15 +1,14 @@
 My name is Matt Janda,
 
-I would like to share my software engineering journey over the years. You can find here overview of the software I created and the tools I was using.
+I would like to share my software engineering journey over the years. You can find here projects I was working on. For most of the projects I developed entire application including user interface and design. 
 
 
 
 
 
+###### Year 2023
 
-# Year 2023
-
-## WinGif
+# WinGif
 
 I created [WinGif](https://github.com/Jandini/WinGif), a simple windows screen capture tool that allows to quickly create animated gif files. 
 It can create animated GIF files by capturing given window title or make it from individual frames saved in PNG files.  
@@ -52,10 +51,10 @@ Make a new gif file from png frames saved by WinGif.
 
 
 
-# Year 2022
+###### Year 2022
 
 
-## .NET template for console application
+# .NET template for console application
 
 [Janda.Go](https://github.com/Jandini/Janda.Go) provides simple console application startup code with dependency injection, logging, and configuration.
 The template is available as [Nuget package](https://www.nuget.org/packages/Janda.Go) that can be accessed directly using `dotnet new install Janda.Go` command.
@@ -64,7 +63,7 @@ The template is available as [Nuget package](https://www.nuget.org/packages/Jand
 ![JandaGo](https://user-images.githubusercontent.com/19593367/211174559-b45486cd-20d8-49fe-839d-7d7a50d6395d.gif)
 
 
-## Github and Jira metics in Kibana
+# Github and Jira metics in Kibana
 
 I moved my career into management in 2018. Yet, I am still developing in my own time. 
 Management is easier if you find a way to measure success of your team. 
@@ -112,18 +111,11 @@ Jira loader waits and retires when too many requests was made.
 
 
 
+###### Year 2020
 
 
 
-
-
-
-
-# Year 2020
-
-
-
-## Capture The Flag 
+# Capture The Flag Framework
 
 I created simple [.NET framework for playing CTF](https://github.com/Jandini/Janda.CTF). 
 
@@ -144,9 +136,9 @@ I participated in multiple Capture The Flag events organized by [SANS](https://w
 
 
 
-# Year 2018
+###### Year 2018
 
-## Lightweight Document Review Platform
+# Lightweight Document Review Platform
 
 I designed simple and fast document review platform for Electronic Discovery. 
 I wrote back bone of the application and with a small team of talented developers completed the project.
@@ -182,9 +174,9 @@ Key features:
 
 
 
-# Year 2006
+###### Year 2006
 
-## Hard drive imaging via IDE ports for DOS
+# Hard drive imaging via IDE ports for DOS
 
 I wrote a simple hard drive imaging tool using [Borland Pascal](https://wiki.freepascal.org/Borland_Pascal). I used [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision) library to create user interface. The software was communicating with hard drive directly via [Integrated Drive Electronics (IDE)](https://en.wikipedia.org/wiki/Parallel_ATA#IDE_and_ATA-1) ports.
 
@@ -198,7 +190,7 @@ Running under Windows 98 with virtual hard drive...
 This was my last software written for DOS. You can find the code in [IDE repository](https://github.com/Jandini/IDE).
 
 
-## Software Reverse Engineering with SoftICE
+# Software Reverse Engineering with SoftICE
 
 [SoftICE](https://en.wikipedia.org/wiki/SoftICE) was my favourite debugger for Windows XP/2000. 
 
@@ -211,9 +203,9 @@ This is one projects I was working on, where I needed to bypass certian software
 
 
 
-# Year 2005
+###### Year 2005
 
-## Data erasing software 
+# Media Eraser 
 
 MediaEraser was compiled into three feature versions: Free (lite), Standard and Full. Each build contained only the code for the features available in given version.
 The free version of MediaEraser can be still downloaded from websites like [programy.net.pl](https://programy.net.pl/program,mediaeraser.html)
@@ -243,9 +235,11 @@ Erase volume settings offered **Complete volume erase (destructive)** and **Part
 ![me9-volume-settings](https://user-images.githubusercontent.com/19593367/209660629-d5fd5522-4cb9-49e9-87f6-faf3a82a06a9.gif)
 
 
+
 **Complete volume erase (destructive)** physically erase entire volume no matter what file system the partition is formatted to. Once the volume is erased it has to be formatted to be accessible by operating system.
 
 ![me15-volume](https://user-images.githubusercontent.com/19593367/209661455-52bc60e7-5823-4dc7-9295-7fea07519766.gif)
+
 
 
 **Partial volume erase (safe)** option erase free space, slack space and optionally unused MFT entries. Slack space is the area of a hard drive ranging from the end of a stored file to the end of that file cluster. Unused MFT entries holds information about files deleted without MediaEraser. 
@@ -253,16 +247,17 @@ Erase volume settings offered **Complete volume erase (destructive)** and **Part
 ![me4-freesace-slack](https://user-images.githubusercontent.com/19593367/209660019-c861324d-26b2-41ca-812f-735a7b9f7594.gif)
 
 
-Erase drive settings 
+Erase drive settings.
 
 ![me8-drive-settings](https://user-images.githubusercontent.com/19593367/209660608-4801b31f-0195-4723-8650-169eb96cb73d.gif)
 
-Erase physical drive
+
+Erase physical drive.
 
 ![me6-drive](https://user-images.githubusercontent.com/19593367/209660333-a2edc2be-54f8-49b5-b329-c729aaea3a2a.gif)
  
 
-Erase files from Windows Explorer's context menu
+Erase files from Windows Explorer's context menu.
 
 ![me](https://user-images.githubusercontent.com/19593367/209666487-b871f2da-ce07-413d-bac3-36e5ec3b203c.png)
 
@@ -271,7 +266,7 @@ Erase files from Windows Explorer's context menu
 
 
 
-# Year 1998
+###### Year 1998
 
 It was exciting time writing software using assembler and pascal for DOS. 
 You can find all my assembler source codes and binaries in [8086](https://github.com/Jandini/8086) repository.
@@ -283,7 +278,7 @@ Multi-Edit was one of the text editors to write and run assembler code.
 
 I used Borlad Pascal to write and run code written in Pascal language.
 
-## Software Reverse Engineering in DOS
+# Software Reverse Engineering in DOS
 
 I modified software which helped me to learn touch typing. The software was called "Maszynistka" which translates to "Typist". Maszynistka was free to use with the caveat that unregistered version has a splash screen. The splash screen is taking about 15 minutes before you can start using the tool.
 
@@ -304,14 +299,14 @@ Program "Maszynistka" with the splash screen...
 ![MASZ-CRACK](https://user-images.githubusercontent.com/19593367/202403750-d7bf8743-2d03-4e1d-a2c0-8b5eba3237f0.gif)
 
 
-## [TSRs](https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program) programs for DOS
+# [TSRs](https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program) programs for DOS
 
 TSR is Terminate and Stay Resident program which allowed to run your program in the background and let the DOS operating system continue. 
 This is where the journey with concept of viruses starts. 
 
 
 
-## Text mode pictures in assembler code
+# Text mode pictures in assembler code
 
 I created a number of picutres in text mode and converted them into assembler code. For example, the picture below was manually created in [X.ASM](https://github.com/Jandini/8086/tree/main/COMPRESS) (1536 bytes) and [compressed](https://github.com/Jandini/8086/blob/main/COMPRESS/COMPRESS.PAS) to C.ASM file (584 bytes). Compressed picture in C.ASM was [converted](https://github.com/Jandini/8086/blob/main/COMPRESS/CONVERT.PAS) to assembler's byte array in [OUT.ASM](https://github.com/Jandini/8086/blob/main/COMPRESS/OUT.ASM). The source code to draw the picture was added later to OUT.ASM code.
 
@@ -327,7 +322,7 @@ The compressed pictures converted to assembler code could easlily fit into a few
 ![PICTURE](https://user-images.githubusercontent.com/19593367/202411411-d234abaf-d036-4784-9df4-464369b797c2.gif)
 
 
-## Two operating systems on one floppy disk
+# Two operating systems on one floppy disk
 
 I worte boot loader [MULTI.ASM](https://github.com/Jandini/8086/blob/main/MULTI/MULTI.ASM) which allowed me to place two operating systems on a single floppy disk.
 I added animated floppy disk picture to the code to make the boot loader a bit more fancy. User can select operating system from the menu.
