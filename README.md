@@ -1,6 +1,9 @@
 My name is Matt Janda,
 
-I would like to share my software engineering journey over the years. You can find here my ideas, tools, projects I worked on, and applications I created from scratch.
+> I would like to share my software engineering journey over the years. 
+> My profie shows how I turned a small ideas into tools, the small tools into projects and the projects into full stack applications. 
+> Most of the tools and applications preseted here were designed and written from scratch. Some of them are available in my public repositories. 
+
 
 
 * [Terragate](https://github.com/Jandini/Jandini/blob/main/README.md#terragate)
