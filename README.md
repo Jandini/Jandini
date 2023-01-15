@@ -5,9 +5,9 @@ Most of these projects started as simple idea which were turned into application
 
 
 
+* [WinGif](https://github.com/Jandini/Jandini/blob/main/README.md#wingif)
 
-
-
+---
 ###### Year 2023
 # WinGif
 
@@ -51,10 +51,8 @@ Make a new gif file from png frames saved by WinGif.
 ![image](https://user-images.githubusercontent.com/19593367/207031957-4e51fd1c-fc4e-4d9f-98e3-7cdfb712fd81.png)
 
 
-
+---
 ###### Year 2022
-
-
 # .NET template for console application
 
 [Janda.Go](https://github.com/Jandini/Janda.Go) provides simple console application startup code with dependency injection, logging, and configuration.
@@ -109,13 +107,8 @@ Jira loader waits and retires when too many requests was made.
 ![too-many-docker](https://user-images.githubusercontent.com/19593367/212531422-05a603ab-06c6-4762-b58e-366ad96b8ba4.gif)
 
 
-
-
-
+---
 ###### Year 2020
-
-
-
 # Capture The Flag Framework
 
 I created simple [.NET framework for playing CTF](https://github.com/Jandini/Janda.CTF). 
@@ -136,9 +129,8 @@ I participated in multiple Capture The Flag events organized by [SANS](https://w
 
 
 
-
+---
 ###### Year 2018
-
 # Lightweight Document Review Platform
 
 I designed simple and fast document review platform for Electronic Discovery. 
@@ -174,9 +166,8 @@ Key features:
 
 
 
-
+---
 ###### Year 2006
-
 # Hard drive imaging via IDE ports for DOS
 
 I wrote a simple hard drive imaging tool using [Borland Pascal](https://wiki.freepascal.org/Borland_Pascal). I used [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision) library to create user interface. The software was communicating with hard drive directly via [Integrated Drive Electronics (IDE)](https://en.wikipedia.org/wiki/Parallel_ATA#IDE_and_ATA-1) ports.
@@ -203,9 +194,8 @@ This is one projects I was working on, where I needed to bypass certian software
 
 
 
-
+---
 ###### Year 2005
-
 # Media Eraser 
 
 MediaEraser was compiled into three feature versions: Free (lite), Standard and Full. Each build contained only the code for the features available in given version.
@@ -266,7 +256,7 @@ Erase files from Windows Explorer's context menu.
 
 
 
-
+---
 ###### Year 1998
 # Assembler for 8086 and Pascal
 
