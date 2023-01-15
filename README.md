@@ -62,7 +62,7 @@ The template is available as [Nuget package](https://www.nuget.org/packages/Jand
 ![JandaGo](https://user-images.githubusercontent.com/19593367/211174559-b45486cd-20d8-49fe-839d-7d7a50d6395d.gif)
 
 
-# Github and Jira metics in Kibana
+# Github and Jira metrics in Kibana
 
 I moved my career into management in 2018. Yet, I am still developing in my own time. 
 Management is easier if you find a way to measure success of your team. 
@@ -295,7 +295,7 @@ Program "Maszynistka" with the splash screen...
 ![MASZ-CRACK](https://user-images.githubusercontent.com/19593367/202403750-d7bf8743-2d03-4e1d-a2c0-8b5eba3237f0.gif)
 
 
-# [TSRs](https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program) programs for DOS
+# [TSR](https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program) programs for DOS
 
 TSR is Terminate and Stay Resident program which allowed to run your program in the background and let the DOS operating system continue. 
 This is where the journey with concept of viruses starts. 
@@ -318,9 +318,9 @@ The compressed pictures converted to assembler code could easlily fit into a few
 ![PICTURE](https://user-images.githubusercontent.com/19593367/202411411-d234abaf-d036-4784-9df4-464369b797c2.gif)
 
 
-# Two operating systems on one floppy disk
+# Floppy Disk Boot Loader
 
-I worte boot loader [MULTI.ASM](https://github.com/Jandini/8086/blob/main/MULTI/MULTI.ASM) which allowed me to place two operating systems on a single floppy disk.
+I worte boot loader [MULTI.ASM](https://github.com/Jandini/8086/blob/main/MULTI/MULTI.ASM) which allowed me to place two operating systems on a single 1.44MB floppy disk.
 I added animated floppy disk picture to the code to make the boot loader a bit more fancy. User can select operating system from the menu.
 
 Microsoft DOS 6.22
