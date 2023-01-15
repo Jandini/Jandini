@@ -274,14 +274,14 @@ Erase files from Windows Explorer's context menu.
 
 
 ---
-###### Year 2000
+###### Year 1999
 # Interrupt List Navigator
 
 Simple tool written in Delphi 5 to provide a quick search for Interrupt List created by Ralf Brown.
 
 ![image](https://user-images.githubusercontent.com/19593367/212570617-965b459e-e44f-4204-ba95-1f774e14263d.png)
 
-The [Interrupt List](https://raw.githubusercontent.com/Jandini/InterruptListNavigator/main/res/INTER.LST) is a text file with detailed description of 8163 interrupts. 
+The [Interrupt List](https://raw.githubusercontent.com/Jandini/InterruptListNavigator/main/res/INTER.LST) is a text file with detailed description of 8163 interrupt calls.
 
 ![notepad](https://user-images.githubusercontent.com/19593367/212570256-ab1fa619-22e7-41e5-ab48-81efcb80d51f.gif)
 
