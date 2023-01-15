@@ -222,6 +222,13 @@ This is one projects I was working on, where I needed to bypass certian software
 
 
 
+---
+###### Year 2008
+# Dictionary Mobile
+
+My first software written for Windows PDA. 
+
+![slowniki](https://user-images.githubusercontent.com/19593367/212574129-94650090-bb42-4f94-a192-d4084e887caa.gif)
 
 
 ---
