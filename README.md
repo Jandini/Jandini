@@ -1,6 +1,6 @@
 My name is Matt Janda,
 
-I would like to share my software engineering journey over the years. You can find here projects I worked on and applications I created from scratch. 
+I would like to share my software engineering journey over the years. You can find here my ideas, tools, projects I worked on, and applications I created from scratch.
 
 
 * [WinGif](https://github.com/Jandini/Jandini/blob/main/README.md#wingif)
