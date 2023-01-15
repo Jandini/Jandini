@@ -26,6 +26,8 @@ I would like to share my software engineering journey over the years. You can fi
 
 
 
+
+
 # WinGif
 
 [WinGif](https://github.com/Jandini/WinGif) is a simple windows screen capture tool that allows to quickly create animated gif files. 
