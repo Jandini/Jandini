@@ -295,9 +295,9 @@ Program "Maszynistka" with the splash screen...
 ![MASZ-CRACK](https://user-images.githubusercontent.com/19593367/202403750-d7bf8743-2d03-4e1d-a2c0-8b5eba3237f0.gif)
 
 
-# [TSR](https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program) programs for DOS
+# TSR programs for DOS
 
-TSR is Terminate and Stay Resident program which allowed to run your program in the background and let the DOS operating system continue. 
+[TSR](https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program) is Terminate and Stay Resident program which allowed to run your program in the background and let the DOS operating system continue. 
 This is where the journey with concept of viruses starts. 
 
 
