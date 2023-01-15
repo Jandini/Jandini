@@ -1,11 +1,21 @@
 My name is Matt Janda,
 
-I would like to share my software engineering journey over the years. You can find here projects I worked on. 
-Most of these projects started as simple idea which were turned into applications.
-
+I would like to share my software engineering journey over the years. You can find here projects I worked on and applications I created from scratch. 
 
 
 * [WinGif](https://github.com/Jandini/Jandini/blob/main/README.md#wingif)
+* [.NET template for console application](https://github.com/Jandini/Jandini/blob/main/README.md#net-template-for-console-application)
+* [Github and Jira metrics in Kibana](https://github.com/Jandini/Jandini/blob/main/README.md#github-and-jira-metrics-in-kibana)
+* [Capture The Flag Framework](https://github.com/Jandini/Jandini/blob/main/README.md#capture-the-flag-framework)
+* [Lightweight Document Review Platform](https://github.com/Jandini/Jandini/blob/main/README.md#lightweight-document-review-platform)
+* [Hard drive imaging via IDE ports for DOS](https://github.com/Jandini/Jandini/blob/main/README.md#hard-drive-imaging-via-ide-ports-for-dos)
+* [Software Reverse Engineering with SoftICE](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-with-softice)
+* [Media Eraser](https://github.com/Jandini/Jandini/blob/main/README.md#media-eraser)
+* [Assembler for 8086 and Pascal](https://github.com/Jandini/Jandini/blob/main/README.md#assembler-for-8086-and-pascal)
+* [Software Reverse Engineering in DOS](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-in-dos)
+* [TSR programs for DOS](https://github.com/Jandini/Jandini/blob/main/README.md#tsr-programs-for-dos)
+* [Text mode pictures in Assembler](https://github.com/Jandini/Jandini/blob/main/README.md#text-mode-pictures-in-assembler)
+* [Floppy Disk Boot Loader](https://github.com/Jandini/Jandini/blob/main/README.md#floppy-disk-boot-loader)
 
 ---
 ###### Year 2023
