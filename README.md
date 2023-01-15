@@ -68,13 +68,47 @@ The template is available as [Nuget package](https://www.nuget.org/packages/Jand
 
 I moved my career into management in 2018. Yet, I am still developing in my own time. 
 Management is easier if you find a way to measure success of your team. 
-Since my company was using Jira for project management and GitHub for development I created fully containerised platform which visualise developers participation within the projects.
+Since my company is using Jira for project management and GitHub for development I created fully containerised platform which visualise developers participation within the projects.
 
-The platform consist of Kibana, Elasticsearch and the Metics service. 
-Metrics service is responsible for transferring relevant data from Jira and Github to Elasticsearch.
-
+Metrics service is responsible for transferring relevant data from Jira and Github into Elasticsearch and visualize through Kibana.
 
 ![ezgif-2-2c0cd0e8e7](https://user-images.githubusercontent.com/19593367/203609416-8f783f07-eac5-40db-9643-4bdf11622236.gif)
+
+The platform consist of 3 containers: 
+
+* Kibana
+* Elasticsearch 
+* Metics Loader
+
+
+Key features: 
+
+- Automatically create Kibana spaces.
+- Import dashboards from ndjson files.
+- Running Jira and GitHub loader services at the same time.
+- Index multiple Jira projects simultaneously.
+- Retries if too many requests is returned. 
+- Caching to reduce number of lookups. 
+
+
+Spin up platform with docker compose.
+![docker-bootup](https://user-images.githubusercontent.com/19593367/212530914-aa056317-af6a-43da-be3c-5b6edd0f54db.gif)
+
+
+Github loader is running while Jira loader is waiting due to too many requests.
+![toomany docker-other-indexing](https://user-images.githubusercontent.com/19593367/212531264-46f6263a-5276-4fbe-874c-9cce45204396.gif)
+
+
+Jira loader waits and retires when too many requests was made.
+![too-many-docker](https://user-images.githubusercontent.com/19593367/212531422-05a603ab-06c6-4762-b58e-366ad96b8ba4.gif)
+
+
+
+
+
+
+
+
 
 
 
