@@ -1,13 +1,14 @@
 My name is Matt Janda,
 
-I would like to share my software engineering journey over the years. You can find here projects I was working on. For most of the projects I developed entire application including user interface and design. 
+I would like to share my software engineering journey over the years. You can find here projects I worked on. 
+Most of these projects started as simple idea which were turned into applications.
+
 
 
 
 
 
 ###### Year 2023
-
 # WinGif
 
 I created [WinGif](https://github.com/Jandini/WinGif), a simple windows screen capture tool that allows to quickly create animated gif files. 
@@ -267,6 +268,7 @@ Erase files from Windows Explorer's context menu.
 
 
 ###### Year 1998
+# Assembler for 8086 and Pascal
 
 It was exciting time writing software using assembler and pascal for DOS. 
 You can find all my assembler source codes and binaries in [8086](https://github.com/Jandini/8086) repository.
@@ -277,6 +279,10 @@ Multi-Edit was one of the text editors to write and run assembler code.
 ![ME_MASZ](https://user-images.githubusercontent.com/19593367/202818994-3e053783-9911-48be-be54-11750ee33fd1.gif)
 
 I used Borlad Pascal to write and run code written in Pascal language.
+
+
+
+
 
 # Software Reverse Engineering in DOS
 
