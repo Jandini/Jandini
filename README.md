@@ -91,15 +91,21 @@ Key features:
 - Caching to reduce number of lookups. 
 
 
-Spin up platform with docker compose.
+
+Start platform with docker compose.
+
 ![docker-bootup](https://user-images.githubusercontent.com/19593367/212530914-aa056317-af6a-43da-be3c-5b6edd0f54db.gif)
 
 
+
 Github loader is running while Jira loader is waiting due to too many requests.
+
 ![toomany docker-other-indexing](https://user-images.githubusercontent.com/19593367/212531264-46f6263a-5276-4fbe-874c-9cce45204396.gif)
 
 
+
 Jira loader waits and retires when too many requests was made.
+
 ![too-many-docker](https://user-images.githubusercontent.com/19593367/212531422-05a603ab-06c6-4762-b58e-366ad96b8ba4.gif)
 
 
