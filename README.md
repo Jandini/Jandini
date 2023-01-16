@@ -275,7 +275,8 @@ This is one projects I was working on, where I needed to bypass certian software
 
 # Dictionary Mobile
 
-My first software written for Windows PDA. [Slownkiki Mobile](https://github.com/Jandini/DictionaryMobile) was an online powered dictionary.
+My first software written for Windows PDA. [Slowniki Mobile](https://github.com/Jandini/DictionaryMobile) was Polish English, Polish German and Polish French bidirectional dictionary client. The data was retrived from online dictionary website. 
+
 
 ![dict](https://user-images.githubusercontent.com/19593367/212577048-bc1f1156-3c05-4e37-bcfa-b417f88b23c9.gif)
 
