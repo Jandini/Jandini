@@ -242,7 +242,7 @@ My first software written for Windows PDA. [Slowniki Mobile](https://github.com/
 ![dict](https://user-images.githubusercontent.com/19593367/212577048-bc1f1156-3c05-4e37-bcfa-b417f88b23c9.gif)
 
 
-Application "Slownki Mobile" running on physical PDA device. History... 
+Application "Slownki Mobile" running on physical Windows PDA device.  
 
 ![vlc](https://user-images.githubusercontent.com/19593367/212778035-7873050a-db2b-4107-900f-51ed10d1b3a9.gif)
 
