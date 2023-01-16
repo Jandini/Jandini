@@ -275,7 +275,12 @@ This is one projects I was working on, where I needed to bypass certian software
 
 # Dictionary Mobile
 
-My first software written for Windows PDA. Application "Slownki Mobile" running on physical PDA device.
+My first software written for Windows PDA. [Slownkiki Mobile](https://github.com/Jandini/DictionaryMobile) was an online powered dictionary.
+
+![dict](https://user-images.githubusercontent.com/19593367/212577048-bc1f1156-3c05-4e37-bcfa-b417f88b23c9.gif)
+
+
+Application "Slownki Mobile" running on physical PDA device.
 
 ![slowniki](https://user-images.githubusercontent.com/19593367/212574129-94650090-bb42-4f94-a192-d4084e887caa.gif)
 
