@@ -246,8 +246,6 @@ Application "Slownki Mobile" running on physical Windows PDA device.
 
 ![vlc](https://user-images.githubusercontent.com/19593367/212778035-7873050a-db2b-4107-900f-51ed10d1b3a9.gif)
 
-![vlc](https://user-images.githubusercontent.com/19593367/212779351-50cb0afb-6e11-4873-831d-121d25a17be8.gif)
-
 
 # TFL Mobile
 
