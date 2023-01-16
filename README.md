@@ -1,7 +1,7 @@
 My name is Matt Janda,
 
 
-> I would like to share my software engineering journey over the years. 
+> I would like to share my software engineering journey.
 > My profile shows how I turned small ideas into tools, the small tools into projects and the projects into full stack applications. 
 > Most of the tools and applications presented here were designed and written from scratch. Some of them are available in my public repositories.
 
