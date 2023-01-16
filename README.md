@@ -229,7 +229,7 @@ This is one projects I was working on, where I needed to bypass certian software
 
 # Dictionary Mobile
 
-My first software written for Windows PDA. 
+My first software written for Windows PDA. Application "Slownki Mobile" running on physical PDA device.
 
 ![slowniki](https://user-images.githubusercontent.com/19593367/212574129-94650090-bb42-4f94-a192-d4084e887caa.gif)
 
