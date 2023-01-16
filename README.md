@@ -12,6 +12,7 @@ My name is Matt Janda,
 * [.NET template for console application](https://github.com/Jandini/Jandini/blob/main/README.md#net-template-for-console-application)
 * [Github and Jira metrics in Kibana](https://github.com/Jandini/Jandini/blob/main/README.md#github-and-jira-metrics-in-kibana)
 * [Capture The Flag Framework](https://github.com/Jandini/Jandini/blob/main/README.md#capture-the-flag-framework)
+* [CoolCat](https://github.com/Jandini/Jandini/blob/main/README.md#cool-cat)
 * [Lightweight Document Review Platform](https://github.com/Jandini/Jandini/blob/main/README.md#lightweight-document-review-platform)
 * [Hard drive imaging via IDE ports for DOS](https://github.com/Jandini/Jandini/blob/main/README.md#hard-drive-imaging-via-ide-ports-for-dos)
 * [Software Reverse Engineering with SoftICE](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-with-softice)
@@ -158,6 +159,51 @@ I participated in multiple Capture The Flag events organized by [SANS](https://w
 
 ![ezgif-5-766ce72835](https://user-images.githubusercontent.com/19593367/202913808-0cccea17-21a7-4027-a371-08e4baf39231.gif)
 
+
+
+# CoolCat
+
+Teaching basics of C# programming with a bit of ASCII fun. 
+The picture of [CoolCat](https://github.com/Jandini/CoolCat) was copied from my daughter's T-shirt logo. 
+
+
+
+```C#
+static readonly string[] coolCat = new string[]
+{
+    "  bb          bb  ",
+    "  byb        byb  ",
+    "  bbyb      bybb  ",
+    "  b byb    byb b  ",
+    "  b byb    byb b  ",
+    "  b byyb  byyb b  ",
+    "  b byyybbyyyb b  ",
+    "  b byyyyyyyyb b  ",
+    "  bbyyyyyyyyyybb  ",
+    "  byyyyyyyyyyyyb  ",
+    "  byyywwyywwyyyb  ",
+    "  bbbbbbyybbbbbb  ",
+    "  bbbbbbbbbbbbbb  ",
+    "  bbbbbbwwbbbbbb  ",
+    "  bybbbwwwwbbbyb  ",
+    "  byyyywbbwyyyyb  ",
+    " bwwwwwwbbwwwwwwb ",
+    "bwwwwwwbwwbwwwwwwb",
+    "bbbbwwwwbbwwwbbbbb",
+    "  bybbbbbbbbbbyb  ",
+    " byyy        yyyb ",
+    "byyyy        yyyyb",
+    "byyby        ybyyb",
+    " byby        ybyb ",
+    "  bbyy      yybb  ",
+    "   byybbbbbbyyb   ",
+    "  byyb      byyb  ",
+    " b  b        b  b ",
+    " bbbb        bbbb ",
+};
+```        
+
+![image](https://user-images.githubusercontent.com/19593367/111007043-d60d0a80-8385-11eb-8fd1-438ae2170b3c.png)
 
 
 
