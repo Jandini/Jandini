@@ -15,6 +15,8 @@ My name is Matt Janda,
 * [Lightweight Document Review Platform](https://github.com/Jandini/Jandini/blob/main/README.md#lightweight-document-review-platform)
 * [Hard drive imaging via IDE ports for DOS](https://github.com/Jandini/Jandini/blob/main/README.md#hard-drive-imaging-via-ide-ports-for-dos)
 * [Software Reverse Engineering with SoftICE](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-with-softice)
+* [Dictionary Mobile](https://github.com/Jandini/Jandini/edit/main/README.md#dictionary-mobile)
+* [TFL Mobile](https://github.com/Jandini/Jandini/edit/main/README.md#tfl-mobile)
 * [Media Eraser](https://github.com/Jandini/Jandini/blob/main/README.md#media-eraser)
 * [Interrupt List Navigator](https://github.com/Jandini/Jandini/blob/main/README.md#interrupt-list-navigator)
 * [Assembler for 8086](https://github.com/Jandini/Jandini/blob/main/README.md#assembler-for-8086)
@@ -233,9 +235,17 @@ My first software written for Windows PDA.
 
 # TFL Mobile
 
-Transport For London Mobile application for PDA. The source code is available in [TFLMobile](https://github.com/Jandini/TFLMobile) repository.
+Transport for London Mobile application for PDA. The source code is available in [TFLMobile](https://github.com/Jandini/TFLMobile) repository.
 
 ![tfl1](https://user-images.githubusercontent.com/19593367/212574580-7ac90a40-3122-43a1-93d3-538c4f1c8603.gif)
+
+Search options: 
+* Station or stop
+* Postcode
+* Address
+* Place of intrest
+
+![tfl2](https://user-images.githubusercontent.com/19593367/212574837-fa812f0a-2595-41f6-b92d-edf3b838faa9.gif)
 
 ---
 ###### Year 2005
