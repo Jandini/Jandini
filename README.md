@@ -12,7 +12,7 @@ My name is Matt Janda,
 * [.NET template for console application](https://github.com/Jandini/Jandini/blob/main/README.md#net-template-for-console-application)
 * [Github and Jira metrics in Kibana](https://github.com/Jandini/Jandini/blob/main/README.md#github-and-jira-metrics-in-kibana)
 * [Capture The Flag Framework](https://github.com/Jandini/Jandini/blob/main/README.md#capture-the-flag-framework)
-* [CoolCat](https://github.com/Jandini/Jandini/blob/main/README.md#cool-cat)
+* [CoolCat](https://github.com/Jandini/Jandini/blob/main/README.md#coolcat)
 * [Lightweight Document Review Platform](https://github.com/Jandini/Jandini/blob/main/README.md#lightweight-document-review-platform)
 * [Hard drive imaging via IDE ports for DOS](https://github.com/Jandini/Jandini/blob/main/README.md#hard-drive-imaging-via-ide-ports-for-dos)
 * [Software Reverse Engineering with SoftICE](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-with-softice)
