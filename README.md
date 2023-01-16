@@ -166,45 +166,7 @@ I participated in multiple Capture The Flag events organized by [SANS](https://w
 Teaching basics of C# programming with a bit of ASCII fun. 
 The picture of [CoolCat](https://github.com/Jandini/CoolCat) was copied from my daughter's T-shirt logo. 
 
-
-
-```C#
-static readonly string[] coolCat = new string[]
-{
-    "  bb          bb  ",
-    "  byb        byb  ",
-    "  bbyb      bybb  ",
-    "  b byb    byb b  ",
-    "  b byb    byb b  ",
-    "  b byyb  byyb b  ",
-    "  b byyybbyyyb b  ",
-    "  b byyyyyyyyb b  ",
-    "  bbyyyyyyyyyybb  ",
-    "  byyyyyyyyyyyyb  ",
-    "  byyywwyywwyyyb  ",
-    "  bbbbbbyybbbbbb  ",
-    "  bbbbbbbbbbbbbb  ",
-    "  bbbbbbwwbbbbbb  ",
-    "  bybbbwwwwbbbyb  ",
-    "  byyyywbbwyyyyb  ",
-    " bwwwwwwbbwwwwwwb ",
-    "bwwwwwwbwwbwwwwwwb",
-    "bbbbwwwwbbwwwbbbbb",
-    "  bybbbbbbbbbbyb  ",
-    " byyy        yyyb ",
-    "byyyy        yyyyb",
-    "byyby        ybyyb",
-    " byby        ybyb ",
-    "  bbyy      yybb  ",
-    "   byybbbbbbyyb   ",
-    "  byyb      byyb  ",
-    " b  b        b  b ",
-    " bbbb        bbbb ",
-};
-```        
-
 ![image](https://user-images.githubusercontent.com/19593367/111007043-d60d0a80-8385-11eb-8fd1-438ae2170b3c.png)
-
 
 
 ---
@@ -277,13 +239,12 @@ This is one projects I was working on, where I needed to bypass certian software
 
 My first software written for Windows PDA. [Slowniki Mobile](https://github.com/Jandini/DictionaryMobile) was Polish English, Polish German and Polish French bidirectional dictionary client. The data was retrived from online dictionary website. 
 
-
 ![dict](https://user-images.githubusercontent.com/19593367/212577048-bc1f1156-3c05-4e37-bcfa-b417f88b23c9.gif)
 
 
-Application "Slownki Mobile" running on physical PDA device.
+Application "Slownki Mobile" running on physical PDA device. History... 
 
-![slowniki](https://user-images.githubusercontent.com/19593367/212574129-94650090-bb42-4f94-a192-d4084e887caa.gif)
+![vlc](https://user-images.githubusercontent.com/19593367/212778035-7873050a-db2b-4107-900f-51ed10d1b3a9.gif)
 
 # TFL Mobile
 
