@@ -336,7 +336,7 @@ The tools offsers quick search by typing interrupt number with AH/AX register va
 
 ![virtualboxcrop](https://user-images.githubusercontent.com/19593367/213120257-f24a4086-5f74-4139-a784-8708056d6208.gif)
 
-Interrupt List Navigator running under Windows 10 with diffrent font.
+Interrupt List Navigator running under Windows 10 with different font.
 
 ![interrupts](https://user-images.githubusercontent.com/19593367/212570464-e8172b53-106c-4183-b182-14c5a237476e.gif)
 
