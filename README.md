@@ -2,7 +2,7 @@ My name is Matt Janda,
 
 
 > I would like to share my software engineering journey. 
-> How I turned small ideas into tools, the small tools into a projects and the projects into full stack applications.
+> How I turned ideas into small tools, the small tools into a projects and the projects into full stack applications.
 > Most of the tools and applications presented here were designed and written from scratch. You can find the source code of some of them in my public repositories. 
 
 
