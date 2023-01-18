@@ -334,7 +334,21 @@ The [Interrupt List](https://raw.githubusercontent.com/Jandini/InterruptListNavi
 
 The tools offsers quick search by typing interrupt number with AH/AX register value or interrupt description.
 
+![virtualboxcrop](https://user-images.githubusercontent.com/19593367/213120257-f24a4086-5f74-4139-a784-8708056d6208.gif)
+
+Interrupt List Navigator running under Windows 10 with diffrent font.
+
 ![interrupts](https://user-images.githubusercontent.com/19593367/212570464-e8172b53-106c-4183-b182-14c5a237476e.gif)
+
+Key features: 
+
+* Serach by interrupt number and AX register.
+* Search by iterrupt title.
+* Find keyword or phrase in text.
+* Print single or multiple interrupt descriptions.
+* Change display font.
+* Copy interupt description to clipboard.
+* Maximize window by pressing F5 key. 
 
 
 ---
