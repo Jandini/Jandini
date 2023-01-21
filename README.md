@@ -11,6 +11,7 @@ My name is Matt Janda,
 * [WinGif](https://github.com/Jandini/Jandini/blob/main/README.md#wingif)
 * [.NET template for console application](https://github.com/Jandini/Jandini/blob/main/README.md#net-template-for-console-application)
 * [Github and Jira metrics in Kibana](https://github.com/Jandini/Jandini/blob/main/README.md#github-and-jira-metrics-in-kibana)
+* [CI/CD Pipelines in Jenkins](https://github.com/Jandini/Jandini#cicd-pipelines-with-jenkins)
 * [Capture The Flag Framework](https://github.com/Jandini/Jandini/blob/main/README.md#capture-the-flag-framework)
 * [CoolCat](https://github.com/Jandini/Jandini/blob/main/README.md#coolcat)
 * [Lightweight Document Review Platform](https://github.com/Jandini/Jandini/blob/main/README.md#lightweight-document-review-platform)
