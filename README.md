@@ -149,7 +149,7 @@ I wrote deployment script for Ubuntu 18.04.6. The script configure operating sys
 * Pull image containers for kibana, elastic search and metric. 
 * Start containers.
 
-It takes only a minute to deploy and start metrics services. The script can be executed directly from last successfull jenkins pipeline:
+It takes only a minute to deploy and start metrics services. The script is executed directly from the last successfull build in Jenkins:
 ```sh
 curl -s https://jenkins.***.com/job/mjanda/job/Metrics/job/develop/lastSuccessfulBuild/artifact/ubuntu.sh | sudo bash
 ```
