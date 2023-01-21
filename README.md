@@ -95,6 +95,9 @@ Key features:
 ![JandaGo](https://user-images.githubusercontent.com/19593367/211174559-b45486cd-20d8-49fe-839d-7d7a50d6395d.gif)
 
 
+
+
+
 # Github and Jira metrics in Kibana
 
 I moved my career into management in 2018. Yet, I am still developing in my own time. 
@@ -139,6 +142,12 @@ Jira loader waits and retires when too many requests was made.
 
 ![too-many-docker](https://user-images.githubusercontent.com/19593367/212531422-05a603ab-06c6-4762-b58e-366ad96b8ba4.gif)
 
+
+# CI/CD Pipelines with Jenkins
+
+Automatically build and push docker images to proget feed. 
+
+![jenkins4](https://user-images.githubusercontent.com/19593367/213829270-d298a4f2-71ce-42b2-a97d-182c39fe66a3.gif)
 
 ---
 ###### Year 2020
