@@ -142,14 +142,18 @@ Jira loader waits and retires when too many requests was made.
 
 ## Deployment scripts for metrics services
 
-I wrote deployment script for Ubuntu 18.04.6. The script configure operating system and deploy metrics services.   
+I wrote deployment script for Ubuntu 18.04.6. The script configure operating system and deploy metrics services. 
 
 * Install docker and docker-compose.
 * Run docker-compose.
 * Pull image containers for kibana, elastic search and metric. 
 * Start containers.
 
-It takes only a minute to deploy and start metrics services.
+It takes only a minute to deploy and start metrics services. The script can be executed directly from last successfull jenkins pipeline:
+```sh
+curl -s https://jenkins.***.com/job/mjanda/job/Metrics/job/develop/lastSuccessfulBuild/artifact/ubuntu.sh | sudo bash
+```
+
 
 ![metrics9](https://user-images.githubusercontent.com/19593367/213867286-8bb9466a-a867-4344-ac49-1d9864f3a019.gif)
 
