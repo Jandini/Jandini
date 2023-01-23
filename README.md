@@ -1,31 +1,30 @@
 My name is Matt Janda,
 
 
-> I would like to share my software engineering journey. 
+> This is my software engineering journey. 
 > How I turned ideas into small tools, the small tools into a projects and the projects into full stack applications.
-> Most of the tools and applications presented here were designed and written from scratch. You can find the source code of some of them in my public repositories. 
+> Most of the tools and applications I designed and wrote from scratch. Some of them are available in my public repositories. 
 
 
-
-* [Terragate](https://github.com/Jandini/Jandini/blob/main/README.md#terragate)
-* [WinGif](https://github.com/Jandini/Jandini/blob/main/README.md#wingif)
-* [.NET template for console application](https://github.com/Jandini/Jandini/blob/main/README.md#net-template-for-console-application)
-* [Github and Jira metrics in Kibana](https://github.com/Jandini/Jandini/blob/main/README.md#github-and-jira-metrics-in-kibana)
+* [Terragate](https://github.com/Jandini#terragate)
+* [WinGif](https://github.com/Jandini#wingif)
+* [.NET template for console application](https://github.com/Jandini#net-template-for-console-application)
+* [Github and Jira metrics in Kibana](https://github.com/Jandini#github-and-jira-metrics-in-kibana)
 * [CI/CD Pipelines in Jenkins](https://github.com/Jandini/Jandini#cicd-pipelines-with-jenkins)
-* [Capture The Flag Framework](https://github.com/Jandini/Jandini/blob/main/README.md#capture-the-flag-framework)
-* [CoolCat](https://github.com/Jandini/Jandini/blob/main/README.md#coolcat)
-* [Lightweight Document Review Platform](https://github.com/Jandini/Jandini/blob/main/README.md#lightweight-document-review-platform)
-* [Hard drive imaging via IDE ports for DOS](https://github.com/Jandini/Jandini/blob/main/README.md#hard-drive-imaging-via-ide-ports-for-dos)
-* [Software Reverse Engineering with SoftICE](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-with-softice)
-* [Dictionary Mobile](https://github.com/Jandini/Jandini/blob/main/README.md#dictionary-mobile)
-* [TFL Mobile](https://github.com/Jandini/Jandini/blob/main/README.md#tfl-mobile)
-* [Media Eraser](https://github.com/Jandini/Jandini/blob/main/README.md#media-eraser)
-* [Interrupt List Navigator](https://github.com/Jandini/Jandini/blob/main/README.md#interrupt-list-navigator)
-* [Assembler for 8086](https://github.com/Jandini/Jandini/blob/main/README.md#assembler-for-8086)
-* [Software Reverse Engineering in DOS](https://github.com/Jandini/Jandini/blob/main/README.md#software-reverse-engineering-in-dos)
-* [TSR programs for DOS](https://github.com/Jandini/Jandini/blob/main/README.md#tsr-programs-for-dos)
-* [Text mode pictures in Assembler](https://github.com/Jandini/Jandini/blob/main/README.md#text-mode-pictures-in-assembler)
-* [Floppy Disk Boot Loader](https://github.com/Jandini/Jandini/blob/main/README.md#floppy-disk-boot-loader)
+* [Capture The Flag Framework](https://github.com/Jandini#capture-the-flag-framework)
+* [CoolCat](https://github.com/Jandini#coolcat)
+* [Lightweight Document Review Platform](https://github.com/Jandini#lightweight-document-review-platform)
+* [Hard drive imaging via IDE ports for DOS](https://github.com/Jandini#hard-drive-imaging-via-ide-ports-for-dos)
+* [Software Reverse Engineering with SoftICE](https://github.com/Jandini#software-reverse-engineering-with-softice)
+* [Dictionary Mobile](https://github.com/Jandini#dictionary-mobile)
+* [TFL Mobile](https://github.com/Jandini#tfl-mobile)
+* [Media Eraser](https://github.com/Jandini#media-eraser)
+* [Interrupt List Navigator](https://github.com/Jandini#interrupt-list-navigator)
+* [Assembler for 8086](https://github.com/Jandini#assembler-for-8086)
+* [Software Reverse Engineering in DOS](https://github.com/Jandini#software-reverse-engineering-in-dos)
+* [TSR programs for DOS](https://github.com/Jandini#tsr-programs-for-dos)
+* [Text mode pictures in Assembler](https://github.com/Jandini#text-mode-pictures-in-assembler)
+* [Floppy Disk Boot Loader](https://github.com/Jandini#floppy-disk-boot-loader)
 
 ---
 ###### Year 2023
