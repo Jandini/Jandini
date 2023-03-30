@@ -7,6 +7,7 @@ My name is Matt Janda,
 
 
 * [Terragate](https://github.com/Jandini#terragate)
+* [JandaBox](https://github.com/Jandini#jandabox)
 * [WinGif](https://github.com/Jandini#wingif)
 * [.NET template for console application](https://github.com/Jandini#net-template-for-console-application)
 * [Github and Jira metrics in Kibana](https://github.com/Jandini#github-and-jira-metrics-in-kibana)
@@ -33,6 +34,9 @@ My name is Matt Janda,
 [Terragate](https://github.com/Jandini/terragate) is simple web API gateway for terraform command line tool. 
 
 
+# JandaBox
+
+[JandaBox](https://github.com/Jandini/JandaBox) is everything what I learned while working on [Janda.Go](https://www.nuget.org/packages/Janda.Go) and much more.
 
 
 
