@@ -9,7 +9,7 @@ My name is Matt Janda,
 * [Terragate](https://github.com/Jandini#terragate)
 * [JandaBox](https://github.com/Jandini#jandabox)
 * [WinGif](https://github.com/Jandini#wingif)
-* [.NET template for console application](https://github.com/Jandini#net-template-for-console-application)
+* [Janda.Go](https://github.com/Jandini#janda-go)
 * [Github and Jira metrics in Kibana](https://github.com/Jandini#github-and-jira-metrics-in-kibana)
 * [CI/CD Pipelines in Jenkins](https://github.com/Jandini/Jandini#cicd-pipelines-with-jenkins)
 * [Capture The Flag Framework](https://github.com/Jandini#capture-the-flag-framework)
@@ -95,9 +95,9 @@ Here we are... a GIF.
 
 ---
 ###### Year 2022
-# .NET template for console application
+# Janda.Go
 
-[Janda.Go](https://github.com/Jandini/Janda.Go) provides startup console application with dependency injection, logging, and configuration.
+[Janda.Go](https://github.com/Jandini/Janda.Go) provides .NET template for console application with dependency injection, logging, and configuration.
 The template is available as [Nuget package](https://www.nuget.org/packages/Janda.Go) that can be accessed directly using `dotnet new install Janda.Go` command.
 
 Key features: 
