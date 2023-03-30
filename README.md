@@ -31,8 +31,8 @@ My name is Matt Janda,
 ###### Year 2023
 # KiBoards
 
-[KiBoards](https://github.com/Jandini/kiboards) provides Elasticsearch logging for Xunit and visualisations in Kibana.
-It was inspired by ...
+[KiBoards](https://github.com/Jandini/kiboards) Inspired by [Xunit.TestLogger](https://github.com/spekt/xunit.testlogger) provides Elasticsearch logging for Xunit and visualisations in Kibana.
+
 
 # Terragate
 
