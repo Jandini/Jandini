@@ -38,6 +38,7 @@ My name is Matt Janda,
 
 # WinGif
 
+No more online converters...
 [WinGif](https://github.com/Jandini/WinGif) is a simple windows screen capture tool that allows to quickly create animated gif files. 
 It can create animated GIF files by capturing given window title or make it from individual frames saved in PNG files.  
 ```
@@ -76,6 +77,11 @@ Self capture and "Chrome" window capture.
 Make a new gif file from png frames saved by WinGif. 
 
 ![image](https://user-images.githubusercontent.com/19593367/207031957-4e51fd1c-fc4e-4d9f-98e3-7cdfb712fd81.png)
+
+
+Here we are... a GIF. 
+
+![chrome](https://user-images.githubusercontent.com/19593367/207031114-49891e15-c160-4346-b546-b943dbfe0adc.gif)
 
 
 ---
