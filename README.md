@@ -5,6 +5,7 @@ My name is Matt Janda,
 > How I turned ideas into small tools, the small tools into a projects and the projects into full stack applications.
 > I designed and wrote from scratch most of the tools and applications presented here. Some of them are available in my public repositories. 
 
+* [AutoByte](https://github.com/Jandini#autobyte)
 * [KiBoards](https://github.com/Jandini#kiboards)
 * [Terragate](https://github.com/Jandini#terragate)
 * [JandaBox](https://github.com/Jandini#jandabox)
@@ -29,6 +30,11 @@ My name is Matt Janda,
 
 ---
 ###### Year 2023
+# AutoByte
+
+[AutoByte](https://github.com/Jandini/AutoByte) is a data structure deserializer. 
+
+
 # KiBoards
 
 [KiBoards](https://github.com/Jandini/kiboards) Inspired by [Xunit.TestLogger](https://github.com/spekt/xunit.testlogger) provides Elasticsearch logging for Xunit and visualisations in Kibana.
