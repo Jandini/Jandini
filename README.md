@@ -49,6 +49,8 @@ My name is Matt Janda,
 
 [JandaBox](https://github.com/Jandini/JandaBox) is everything what I learned while working on [Janda.Go](https://www.nuget.org/packages/Janda.Go) and much more.
 
+![helloworld](https://user-images.githubusercontent.com/19593367/234417970-e2892270-50a1-4fd0-90a5-f0f3abf15af4.gif)
+
 
 
 # WinGif
