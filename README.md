@@ -32,7 +32,7 @@ My name is Matt Janda,
 ###### Year 2023
 # AutoByte
 
-[AutoByte](https://github.com/Jandini/AutoByte) is a data structure deserializer. 
+[AutoByte](https://github.com/Jandini/AutoByte) is a data structure deserializer and parser for .NET. It automatically generates code based on class properties, streamlining the parsing of binary data. It simplifies handling binary data in .NET apps, making it easier to integrate and manage complex data structures efficiently.
 
 
 # KiBoards
