@@ -10,6 +10,7 @@ My name is Matt Janda,
 * [Terragate](https://github.com/Jandini#terragate)
 * [JandaBox](https://github.com/Jandini#jandabox)
 * [WinGif](https://github.com/Jandini#wingif)
+* [Serilog ClassName Enricher](https://github.com/Jandini#serilog-classname-enricher)
 * [Janda.Go](https://github.com/Jandini#janda-go)
 * [Github and Jira metrics in Kibana](https://github.com/Jandini#github-and-jira-metrics-in-kibana)
 * [CI/CD Pipelines in Jenkins](https://github.com/Jandini/Jandini#cicd-pipelines-with-jenkins)
@@ -39,6 +40,7 @@ My name is Matt Janda,
 
 [KiBoards](https://github.com/Jandini/kiboards) Inspired by [Xunit.TestLogger](https://github.com/spekt/xunit.testlogger) provides Elasticsearch logging for Xunit and visualisations in Kibana.
 
+![kiboards](https://github.com/user-attachments/assets/9a908bc0-a700-49dc-8f4a-d2257eff1fe6)
 
 # Terragate
 
@@ -48,7 +50,6 @@ My name is Matt Janda,
 # JandaBox
 
 [JandaBox](https://github.com/Jandini/JandaBox) is everything what I learned while working on [Janda.Go](https://www.nuget.org/packages/Janda.Go) and much more.
-
 
 HelloWorld from command line...
 
@@ -106,6 +107,10 @@ Make a new gif file from png frames saved by WinGif.
 Here we are... a GIF. 
 
 ![chrome](https://user-images.githubusercontent.com/19593367/207031114-49891e15-c160-4346-b546-b943dbfe0adc.gif)
+
+# Serilog ClassName Enricher
+
+[The ClassName enricher](https://github.com/Jandini/serilog-enrichers-classname) uses SourceContext and enrich Serilog logs with class name only.
 
 
 ---
